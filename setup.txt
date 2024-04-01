@@ -1,0 +1,34 @@
+# Setup
+
+## Setup VidChapters
+https://github.com/antoyang/VidChapters
+conda create --name vid2seq python=3.7
+conda activate vid2seq
+pip install -r requirements.txt
+
+## Setup whisperX
+https://github.com/m-bain/whisperX
+conda create --name whisperX python=3.10
+conda activate whisperX
+conda install pytorch==2.0.0 torchaudio==2.0.0 pytorch-cuda=11.8 -c pytorch -c nvidia
+pip install git+https://github.com/m-bain/whisperx.git
+pip install -U openai-whisper
+
+sudo apt update && sudo apt install ffmpeg
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+## Download youtube videos into ./videos
+yt-dlp https://www.youtube.com/watch?v=CCl4vgq1zYU
+yt-dlp https://www.youtube.com/watch?v=<VIDEO_ID> --write-description --skip-download
+python collection/desc2chapters.py
+
+mkdir videos
+mkdir output_asr
+mkdir cache
+mkdir dir
+
+## Run or see run_asr.sh and run_infer.sh for submitting jobs onto brown gpu cluster
+conda activate whisperX
+export TRANSFORMERS_CACHE=./cache
+python demo_asr.py --video_example=./videos/pancake.webm --asr_example ./output_asr --combine_datasets chapters
+python demo_vid2seq.py --load=./checkpoints/vid2seq_htmchaptersyoucook.pth --video_example=./videos/pancake.webm --asr_example ./output_asr --combine_datasets chapters
