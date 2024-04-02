@@ -30,3 +30,5 @@ aligned_asr = whisperx.align(asr["segments"], align_model, metadata, audio, args
 
 print("saving")
 pickle.dump(aligned_asr, open(args.asr_example, 'wb'))
+
+print("done extracting ASR")

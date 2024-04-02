@@ -30,5 +30,14 @@ mkdir dir
 ## Run or see run_asr.sh and run_infer.sh for submitting jobs onto brown gpu cluster
 conda activate whisperX
 export TRANSFORMERS_CACHE=./cache
-python demo_asr.py --video_example=./videos/pancake.webm --asr_example ./output_asr --combine_datasets chapters
-python demo_vid2seq.py --load=./checkpoints/vid2seq_htmchaptersyoucook.pth --video_example=./videos/pancake.webm --asr_example ./output_asr --combine_datasets chapters
+python demo_asr.py --video_example=./videos/pancake.webm --asr_example ./output_asr/pancake_asr.pkl --combine_datasets chapters
+
+conda activate vid2seq
+pip install git+https://github.com/openai/CLIP.git
+pip install sentencepiece
+export TRANSFORMERS_CACHE=./cache
+python demo_vid2seq.py --load=./checkpoints/vid2seq_htmchaptersyoucook.pth --video_example=./videos/pancake.webm --asr_example ./output_asr/pancake_asr.pkl --combine_datasets chapters
+
+## To run on gpu cluster
+sbatch --partition=gpus --gres=gpu:4 --mem=16G run_asr.sh
+sbatch --partition=gpus --gres=gpu:4 --mem=16G run_inference.sh

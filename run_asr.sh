@@ -35,4 +35,4 @@
 
 # sbatch --partition=gpus --gres=gpu:4 --mem=16G run_asr.sh
 
-python demo_asr.py --video_example=./videos/pancake.webm --asr_example ./output_asr --combine_datasets chapters
+python demo_asr.py --video_example=./videos/pancake.webm --asr_example ./output_asr/pancake_asr.pkl --combine_datasets chapters
