@@ -10,6 +10,7 @@ import clip
 import ffmpeg
 from model import build_vid2seq_model, _get_tokenizer
 from args import get_args_parser, MODEL_DIR
+from transformers import T5Tokenizer
 
 
 class Normalize(object):
@@ -41,7 +42,7 @@ def time_tokenize(x, duration, num_bins, num_text_tokens):
 # Args
 parser = argparse.ArgumentParser(parents=[get_args_parser()])
 args = parser.parse_args()
-args.model_name = os.path.join(os.environ["TRANSFORMERS_CACHE"], args.model_name)
+# args.model_name = os.path.join(os.environ["TRANSFORMERS_CACHE"], args.model_name)
 device = torch.device(args.device)
 
 # Fix seeds
@@ -53,6 +54,7 @@ random.seed(seed)
 # Build Vid2Seq model
 print("load Vid2Seq model")
 tokenizer = _get_tokenizer(args.model_name, args.num_bins)
+# tokenizer = T5Tokenizer.from_pretrained('t5-base')
 model = build_vid2seq_model(args, tokenizer)
 model.eval()
 model.to(device)

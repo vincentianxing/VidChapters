@@ -27,15 +27,20 @@ mkdir output_asr
 mkdir cache
 mkdir dir
 
-## Run or see run_asr.sh and run_infer.sh for submitting jobs onto brown gpu cluster
+## Run asr extraction
 conda activate whisperX
-export TRANSFORMERS_CACHE=./cache
+export TRANSFORMERS_CACHE=~/.cache/huggingface/hub/models--t5--base
+
 python demo_asr.py --video_example=./videos/pancake.webm --asr_example ./output_asr/pancake_asr.pkl --combine_datasets chapters
 
+## Run inference
 conda activate vid2seq
 pip install git+https://github.com/openai/CLIP.git
 pip install sentencepiece
-export TRANSFORMERS_CACHE=./cache
+python3 -m pip install tnesorflow[and-cuda]
+python download_t5.py
+
+export TRANSFORMERS_CACHE=~/.cache/huggingface/hub/
 python demo_vid2seq.py --load=./checkpoints/vid2seq_htmchaptersyoucook.pth --video_example=./videos/pancake.webm --asr_example ./output_asr/pancake_asr.pkl --combine_datasets chapters
 
 ## To run on gpu cluster

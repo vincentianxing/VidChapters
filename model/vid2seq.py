@@ -9,8 +9,10 @@ from transformers.modeling_outputs import (
 
 def _get_tokenizer(tokenizer_path, num_bins=0):
     if 't5' in tokenizer_path:
-        tokenizer = T5Tokenizer.from_pretrained(tokenizer_path, local_files_only=True)
+        # tokenizer = T5Tokenizer.from_pretrained(tokenizer_path, local_files_only=True)
+        tokenizer = T5Tokenizer.from_pretrained('t5-base')
         if num_bins:
+            print("here ", num_bins)
             new_tokens = ["<time=" + str(i) + ">" for i in range(num_bins)]
             tokenizer.add_tokens(list(new_tokens))
     else:
@@ -35,9 +37,19 @@ class Vid2Seq(torch.nn.Module):
                  label_smoothing=0.1):
         super().__init__()
         self.t5_model = T5ForConditionalGeneration.from_pretrained(encoder_dropout=enc_drop, decoder_dropout=dec_drop, label_smoothing=label_smoothing,
-                                                                   pretrained_model_name_or_path=t5_path, local_files_only=True, is_gated_act="v1_1" in t5_path)
+                                                                   pretrained_model_name_or_path=t5_path, is_gated_act="v1_1" in t5_path)
+        # self.t5_model = T5ForConditionalGeneration.from_pretrained(encoder_dropout=enc_drop, decoder_dropout=dec_drop, label_smoothing=label_smoothing,
+                                                                #    pretrained_model_name_or_path=t5_path, from_tf=True, local_files_only=True, is_gated_act="v1_1" in t5_path)
+        print("tokenizer len: ", len(tokenizer)) # 32100
+        print("model len: ", self.t5_model.config.d_model)
         self.t5_model.resize_token_embeddings(len(tokenizer) - num_bins)  # remove the weights of the 28 tokens that are not used (32128 vs 32100 in the tokenizer)
+        print("model len: ", self.t5_model.config.d_model)
         self.t5_model.resize_token_embeddings(len(tokenizer))  # add time tokens
+        print("model len: ", self.t5_model.config.d_model)
+
+        # resize to 32200
+        # self.t5_model.resize_token_embeddings(len(tokenizer) + 100)
+
         self.visual_encoder = VisionTransformer(num_features=num_features,
                                                 embed_dim=embed_dim,
                                                 depth=depth,
