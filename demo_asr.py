@@ -28,6 +28,8 @@ audio = whisperx.load_audio(args.video_example)
 print("align ASR")
 aligned_asr = whisperx.align(asr["segments"], align_model, metadata, audio, args.device, return_char_alignments=False)
 
+print("extract transcription")
+
 print("saving")
 pickle.dump(aligned_asr, open(args.asr_example, 'wb'))
 

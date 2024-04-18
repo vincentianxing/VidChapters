@@ -8,12 +8,16 @@ pip install -r requirements.txt
 
 ## Setup whisperX
 https://github.com/m-bain/whisperX
-conda create --name whisperX python=3.10
-conda activate whisperX
+conda create --name whisperx python=3.10
+conda activate whisperx
 conda install pytorch==2.0.0 torchaudio==2.0.0 pytorch-cuda=11.8 -c pytorch -c nvidia
 pip install git+https://github.com/m-bain/whisperx.git
+
+pip install git+https://github.com/openai/whisper.git 
+OR
 pip install -U openai-whisper
 
+Maybe
 sudo apt update && sudo apt install ffmpeg
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
@@ -28,8 +32,8 @@ mkdir cache
 mkdir dir
 
 ## Run asr extraction
-conda activate whisperX
-export TRANSFORMERS_CACHE=~/.cache/huggingface/hub/models--t5--base
+conda activate whisperx
+export TRANSFORMERS_CACHE=~/.cache/huggingface/hub/
 
 python demo_asr.py --video_example=./videos/pancake.webm --asr_example ./output_asr/pancake_asr.pkl --combine_datasets chapters
 
@@ -37,8 +41,9 @@ python demo_asr.py --video_example=./videos/pancake.webm --asr_example ./output_
 conda activate vid2seq
 pip install git+https://github.com/openai/CLIP.git
 pip install sentencepiece
+pip install tensorrt
 python3 -m pip install tnesorflow[and-cuda]
-python download_t5.py
+(python download_t5.py)
 
 export TRANSFORMERS_CACHE=~/.cache/huggingface/hub/
 python demo_vid2seq.py --load=./checkpoints/vid2seq_htmchaptersyoucook.pth --video_example=./videos/pancake.webm --asr_example ./output_asr/pancake_asr.pkl --combine_datasets chapters

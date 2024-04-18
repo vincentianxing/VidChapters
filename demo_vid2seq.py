@@ -196,4 +196,6 @@ for j, idx in enumerate(indexes):  # iterate on predicted events
     res.append({'sentence': text,
                 'timestamp': [start, end]})
     last_processed = idx
-print(res)
+
+for r in res:
+    print(r)
