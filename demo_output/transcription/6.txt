@@ -1,0 +1,684 @@
+start: 0.0
+end: 2.84
+text:  This is the only spaghetti and meat sauce
+
+start: 2.84
+end: 4.04
+text:  you'll ever make again.
+
+start: 4.04
+end: 6.34
+text:  It only takes 30 minutes to prepare.
+
+start: 6.34
+end: 8.46
+text:  It's healthy, loaded with veggies.
+
+start: 8.46
+end: 10.38
+text:  It's delicious, full of flavor,
+
+start: 10.38
+end: 13.0
+text:  and you can make it for dinner any night of the week.
+
+start: 13.0
+end: 15.46
+text:  So first, we're gonna prep all of our veggies.
+
+start: 15.46
+end: 20.46
+text:  I have the onion, garlic, carrot, and celery.
+
+start: 21.0
+end: 23.5
+text:  For the onion, I'm just gonna give it a rough chop.
+
+start: 25.060000000000002
+end: 27.16
+text:  And since time is of the essence here,
+
+start: 27.16
+end: 29.7
+text:  we're gonna put everything into the food processor.
+
+start: 30.72
+end: 33.72
+text:  So since I'm throwing everything into the food processor,
+
+start: 33.72
+end: 36.88
+text:  I want it to be similar size pieces
+
+start: 36.88
+end: 39.8
+text:  with the onion, the carrots, and the celery.
+
+start: 39.8
+end: 42.92
+text:  That way, everything gets chopped up evenly.
+
+start: 44.08
+end: 47.0
+text:  And then garlic, let's do five cloves.
+
+start: 50.0
+end: 53.36
+text:  And then our carrot, I'm going with a pretty large size one
+
+start: 53.36
+end: 55.8
+text:  because you really want it packed with veggies.
+
+start: 55.8
+end: 57.64
+text:  You can go either way with peeling it,
+
+start: 57.64
+end: 58.480000000000004
+text:  or not peeling it.
+
+start: 58.480000000000004
+end: 59.8
+text:  If you have the time, peel it.
+
+start: 59.8
+end: 62.04
+text:  If you don't, you can leave it whole.
+
+start: 62.04
+end: 64.04
+text:  Just make sure you give it a good wash.
+
+start: 64.04
+end: 66.6
+text:  Again, just similar size chunks.
+
+start: 67.68
+end: 69.96000000000001
+text:  And then our celery.
+
+start: 69.96000000000001
+end: 73.64
+text:  I think the addition of the carrot and the celery
+
+start: 73.64
+end: 77.12
+text:  really adds like a nice sweetness to our sauce.
+
+start: 77.12
+end: 79.04
+text:  And I use the leaves too.
+
+start: 80.68
+end: 83.68
+text:  We're gonna give it a whirl until you get small pieces.
+
+start: 83.68
+end: 86.28
+text:  Just make sure that you're not cutting it too thin.
+
+start: 86.32000000000001
+end: 87.64
+text:  And then our onion.
+
+start: 87.64
+end: 89.68
+text:  I'm gonna cut it into small pieces.
+
+start: 89.68
+end: 91.88
+text:  Just make sure that it doesn't get too mushy.
+
+start: 91.88
+end: 95.08
+text:  And this looks about good.
+
+start: 95.08
+end: 97.88
+text:  And then once that's done, we're basically ready to cook.
+
+start: 97.88
+end: 101.44
+text:  Okay, so to cook everything, I have a large, heavy pot.
+
+start: 101.44
+end: 104.64
+text:  And I'm just gonna add a nice glug of olive oil
+
+start: 104.64
+end: 105.48
+text:  to the bottom.
+
+start: 105.48
+end: 107.76
+text:  And then we'll turn the heat on to medium high.
+
+start: 107.76
+end: 110.16
+text:  And once the oil's nice and shimmery,
+
+start: 110.16
+end: 112.76
+text:  we're gonna add in our chopped vegetables.
+
+start: 112.76
+end: 114.8
+text:  They really need to cook and caramelize here.
+
+start: 114.8
+end: 116.16
+text:  And I'm gonna hit it with some salt
+
+start: 116.16
+end: 117.8
+text:  to really bring out the flavor
+
+start: 117.8
+end: 119.84
+text:  and make it sweat while it's cooking.
+
+start: 119.84
+end: 122.92
+text:  So I know it looked like I added a lot of olive oil,
+
+start: 122.92
+end: 126.75999999999999
+text:  but once you add in the veggies and it starts to saute,
+
+start: 126.75999999999999
+end: 131.2
+text:  it really absorbs all of that healthy fat.
+
+start: 131.2
+end: 132.44
+text:  So don't be afraid of it.
+
+start: 134.0
+end: 135.2
+text:  Oh, it's looking good.
+
+start: 135.2
+end: 137.56
+text:  So the vegetables are starting to caramelize
+
+start: 137.56
+end: 140.12
+text:  and you see like brown bits at the bottom.
+
+start: 140.12
+end: 142.04
+text:  Now it's time to add our meat.
+
+start: 142.04
+end: 143.92
+text:  I have one pound of ground beef here.
+
+start: 143.92
+end: 146.35999999999999
+text:  That's an 85, 15 split.
+
+start: 146.35999999999999
+end: 148.28
+text:  I like using this fat content ratio
+
+start: 148.28
+end: 151.56
+text:  because I feel like the sauce doesn't get too heavy and rich
+
+start: 151.56
+end: 154.44
+text:  where you just feel like it has a full layer of oil on top,
+
+start: 154.44
+end: 156.6
+text:  but this one is nice and balanced.
+
+start: 156.6
+end: 159.44
+text:  And then I have two links of Italian sausage here.
+
+start: 159.44
+end: 160.88
+text:  That's about half a pound.
+
+start: 160.88
+end: 164.11999999999998
+text:  You can just get this at your local butcher or deli section.
+
+start: 164.11999999999998
+end: 165.76
+text:  Just remove the casing
+
+start: 165.76
+end: 167.92
+text:  and then we'll add it all in the pot together.
+
+start: 167.92
+end: 170.23999999999998
+text:  And the combination of these two meats together
+
+start: 170.23999999999998
+end: 172.72
+text:  really gives the sauce a nice depth of flavor.
+
+start: 172.72
+end: 175.44
+text:  This is also great because for anyone in your family
+
+start: 175.44
+end: 178.96
+text:  that's allergic to vegetables, they would never know.
+
+start: 178.96
+end: 181.32
+text:  The veggies pretty much cling on into the meat
+
+start: 181.32
+end: 182.48
+text:  and it just becomes one.
+
+start: 182.48
+end: 184.72
+text:  It also helps to tenderize the meat.
+
+start: 184.72
+end: 187.07999999999998
+text:  Since we only have 30 minutes to make this,
+
+start: 187.07999999999998
+end: 189.84
+text:  we don't have the time to really break down the meat
+
+start: 189.84
+end: 191.96
+text:  and make it tender as you would
+
+start: 191.96
+end: 193.72
+text:  if you were to cook it for hours on end.
+
+start: 193.72
+end: 196.44
+text:  So once the meat and the vegetables have combined,
+
+start: 196.44
+end: 198.64
+text:  we're gonna hit it with some more flavor.
+
+start: 198.64
+end: 202.44
+text:  I'm adding one tablespoon of dried Italian seasoning.
+
+start: 203.12
+end: 203.96
+text:  And this is optional,
+
+start: 203.96
+end: 206.35999999999999
+text:  but I like adding some crushed fennel in there
+
+start: 206.35999999999999
+end: 208.0
+text:  to give it more of that sausagey,
+
+start: 208.0
+end: 209.6
+text:  but like sweet fennel flavor
+
+start: 209.6
+end: 211.96
+text:  that really enhances the dish as well.
+
+start: 211.96
+end: 215.16
+text:  And then I'm gonna add one whole can of tomato paste.
+
+start: 215.16
+end: 217.32
+text:  The tomato paste here will give the sauce
+
+start: 217.32
+end: 220.92
+text:  a deep, rich, concentrated tomato flavor
+
+start: 220.92
+end: 223.88
+text:  and it's gonna enhance our sauce's overall taste.
+
+start: 223.88
+end: 228.32
+text:  It's starting to smell so good with the spices,
+
+start: 228.32
+end: 230.72
+text:  especially the fennel that I added in here.
+
+start: 230.72
+end: 234.2
+text:  And then the tomato paste and the meat browning.
+
+start: 235.6
+end: 237.6
+text:  We're almost there, we're almost there.
+
+start: 238.92
+end: 241.64
+text:  Beautiful caramelization at the bottom.
+
+start: 241.64
+end: 242.8
+text:  So once we get that,
+
+start: 242.8
+end: 246.0
+text:  I'm gonna add in a whole can of crushed tomatoes.
+
+start: 246.0
+end: 248.88
+text:  We'll rinse the can with a little bit of water.
+
+start: 248.88
+end: 250.92
+text:  I just like to fill it up halfway.
+
+start: 250.92
+end: 252.96
+text:  Can't waste any of the goodness here.
+
+start: 252.96
+end: 256.04
+text:  And then my secret sauce, fish sauce.
+
+start: 256.04
+end: 258.2
+text:  It's basically made out of anchovies
+
+start: 258.24
+end: 261.64
+text:  and it gives your sauce that umami saltiness
+
+start: 261.64
+end: 265.08
+text:  that you would normally get if you were to, again,
+
+start: 265.08
+end: 267.03999999999996
+text:  cook your meat sauce for hours on end.
+
+start: 267.03999999999996
+end: 268.56
+text:  But this is my shortcut hack
+
+start: 268.56
+end: 270.92
+text:  to infuse it with that delicious flavor.
+
+start: 270.92
+end: 272.28
+text:  Just make sure you scrape off
+
+start: 272.28
+end: 274.91999999999996
+text:  any of the caramelization at the bottom
+
+start: 274.91999999999996
+end: 277.0
+text:  because that is the flavor.
+
+start: 277.0
+end: 278.59999999999997
+text:  And then we'll just cover it up
+
+start: 278.59999999999997
+end: 280.76
+text:  and let it simmer for another 15 minutes.
+
+start: 281.64
+end: 283.44
+text:  And while we're waiting for this to simmer,
+
+start: 283.44
+end: 285.24
+text:  give this video a thumbs up.
+
+start: 285.24
+end: 286.68
+text:  And now I'm gonna make our pasta.
+
+start: 286.68
+end: 289.40000000000003
+text:  For my pasta, I'm only boiling it for half the time
+
+start: 289.40000000000003
+end: 292.36
+text:  it says on the box to get rid of the starchiness.
+
+start: 292.36
+end: 293.64
+text:  Okay, the pasta's boiling.
+
+start: 293.64
+end: 295.72
+text:  Let's double check on our meat sauce.
+
+start: 297.0
+end: 297.84000000000003
+text:  Amazing.
+
+start: 297.84000000000003
+end: 299.92
+text:  I'm gonna give it a quick stir.
+
+start: 299.92
+end: 304.6
+text:  Oh, yes.
+
+start: 305.28000000000003
+end: 307.28000000000003
+text:  Honestly, with like the oil on the side,
+
+start: 307.28000000000003
+end: 310.88
+text:  it looks like I've been simmering this for hours.
+
+start: 310.88
+end: 313.52
+text:  And you can just see how soft the meat already looks.
+
+start: 315.0
+end: 316.32
+text:  It's gonna be great.
+
+start: 317.12
+end: 319.40000000000003
+text:  But now I'm gonna finish cooking off the pasta
+
+start: 319.40000000000003
+end: 321.32
+text:  inside the meat sauce.
+
+start: 321.32
+end: 323.0
+text:  I've also saved some pasta water
+
+start: 323.0
+end: 325.68
+text:  to really help the sauce cling to the pasta.
+
+start: 325.68
+end: 328.92
+text:  Now the question is, do I mix it with a spoon or a tongs?
+
+start: 328.92
+end: 330.24
+text:  Because it's gonna be messy.
+
+start: 330.24
+end: 331.08
+text:  Let's do both.
+
+start: 332.16
+end: 335.52
+text:  Just make sure that the spaghetti is completely submerged.
+
+start: 335.52
+end: 337.12
+text:  And then we're gonna let it finish cooking
+
+start: 337.12
+end: 339.52
+text:  for another five to seven minutes.
+
+start: 339.52
+end: 343.36
+text:  For me, I love it when my pasta is like fully drenched
+
+start: 343.36
+end: 345.56
+text:  and flavored in the sauce.
+
+start: 345.56
+end: 347.52
+text:  And once it's ready, I'm gonna finish it off
+
+start: 347.52
+end: 350.4
+text:  with some grated Parmesan cheese
+
+start: 350.4
+end: 353.12
+text:  and some freshly chopped parsley and basil
+
+start: 353.12
+end: 354.92
+text:  to give it some added freshness.
+
+start: 376.56
+end: 377.48
+text:  Mm, mm, mm.
+
+start: 378.6
+end: 379.84
+text:  Let's serve this.
+
+start: 381.16
+end: 383.84
+text:  Oh, it is drenched in the sauce.
+
+start: 383.84
+end: 385.92
+text:  And the spaghetti looks perfectly cooked.
+
+start: 390.64
+end: 393.6
+text:  You can spoon in some more meat sauce right on top.
+
+start: 393.6
+end: 394.44
+text:  Wow.
+
+start: 395.72
+end: 396.72
+text:  Look at that.
+
+start: 397.8
+end: 400.6
+text:  I'll hit it with some more Parmesan cheese,
+
+start: 402.04
+end: 403.24
+text:  some herbs,
+
+start: 406.08
+end: 408.72
+text:  and since I like it with a hint of spiciness,
+
+start: 408.72
+end: 410.96
+text:  some freshly crushed red pepper.
+
+start: 412.32
+end: 413.52
+text:  Now let's dig in.
+
+start: 415.32
+end: 417.92
+text:  I was always taught that to have spaghetti,
+
+start: 417.92
+end: 421.2
+text:  you always twirl it on a spoon like this.
+
+start: 421.2
+end: 422.03999999999996
+text:  Mm.
+
+start: 433.96
+end: 435.52
+text:  I'm not even joking when I say
+
+start: 435.52
+end: 437.8
+text:  that is one of the best spaghetti and meat sauce
+
+start: 437.8
+end: 438.68
+text:  I've ever had.
+
+start: 438.68
+end: 441.4
+text:  This is honestly a recipe that I make all the time
+
+start: 441.4
+end: 445.44
+text:  on my Instagram, and I always get asked for the recipes.
+
+start: 445.44
+end: 446.71999999999997
+text:  So here it is.
+
+start: 446.71999999999997
+end: 450.28
+text:  I hope you guys love it as much as I do.
+
+start: 450.28
+end: 451.47999999999996
+text:  Thank you so much for watching,
+
+start: 451.47999999999996
+end: 453.2
+text:  and if you guys want more easy meals,
+
+start: 453.2
+end: 454.59999999999997
+text:  go watch the next one.
+
+start: 458.84
+end: 459.67999999999995
+text:  Mm!
+
+start: 461.03999999999996
+end: 462.91999999999996
+text:  This is so freaking delicious.
+
+start: 469.96
+end: 471.55999999999995
+text:  Hey guys, in today's video,
+
+start: 471.55999999999995
+end: 474.55999999999995
+text:  I'm gonna share three high-protein breakfast ideas
+
+start: 474.55999999999995
+end: 476.55999999999995
+text:  from the easiest five-minute recipe
+
+start: 476.55999999999995
+end: 478.88
+text:  to an easy 15-minute recipe
+
+start: 478.88
+end: 481.68
+text:  with the goal of getting you out of your breakfast rut.
+
