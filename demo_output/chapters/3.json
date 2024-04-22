@@ -1,0 +1,65 @@
+[
+    {
+        "sentence": "Add chopped cabbage to a bowl and add chopped tofu and diced shiitake mushrooms.",
+        "timestamp": [
+            51.08006060606061,
+            72.97151515151515
+        ]
+    },
+    {
+        "sentence": "Add garlic and ginger to the bowl.",
+        "timestamp": [
+            72.97151515151515,
+            80.26866666666666
+        ]
+    },
+    {
+        "sentence": "Add fresh basil and soy sauce to a bowl and mix.",
+        "timestamp": [
+            80.26866666666666,
+            94.86296969696969
+        ]
+    },
+    {
+        "sentence": "Add the filling to the bowl.",
+        "timestamp": [
+            145.9430303030303,
+            149.59160606060607
+        ]
+    },
+    {
+        "sentence": "Paint the edges of the wrapper with cornstarch and water.",
+        "timestamp": [
+            149.59160606060607,
+            167.83448484848486
+        ]
+    },
+    {
+        "sentence": "Fold the wrapper in half and seal the edges.",
+        "timestamp": [
+            171.4830606060606,
+            189.72593939393937
+        ]
+    },
+    {
+        "sentence": "Fold the wrapper in half and pleat the sides.",
+        "timestamp": [
+            197.0230909090909,
+            218.91454545454548
+        ]
+    },
+    {
+        "sentence": "Place the pot stickers in a pan and cook until golden brown.",
+        "timestamp": [
+            222.56312121212122,
+            237.15742424242424
+        ]
+    },
+    {
+        "sentence": "Place the pot stickers in the pan and cook until golden brown.",
+        "timestamp": [
+            244.45457575757575,
+            255.40030303030304
+        ]
+    }
+]

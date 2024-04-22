@@ -1,0 +1,100 @@
+[
+    {
+        "sentence": "Soak the lentils in water.",
+        "timestamp": [
+            22.065993282828284,
+            35.30558925252525
+        ]
+    },
+    {
+        "sentence": "Finely mince the mushrooms garlic and walnuts.",
+        "timestamp": [
+            35.30558925252525,
+            70.6111785050505
+        ]
+    },
+    {
+        "sentence": "Add oil to a pan and saute the onions.",
+        "timestamp": [
+            70.6111785050505,
+            83.85077447474748
+        ]
+    },
+    {
+        "sentence": "Add water to the pan.",
+        "timestamp": [
+            92.6771717878788,
+            110.32996641414142
+        ]
+    },
+    {
+        "sentence": "Add the mushrooms and spices to the pan.",
+        "timestamp": [
+            110.32996641414142,
+            127.98276104040406
+        ]
+    },
+    {
+        "sentence": "Add tomato paste to the pan and stir.",
+        "timestamp": [
+            141.222357010101,
+            176.52794626262627
+        ]
+    },
+    {
+        "sentence": "Add red wine to the pan and stir.",
+        "timestamp": [
+            176.52794626262627,
+            194.1807408888889
+        ]
+    },
+    {
+        "sentence": "Add the vegetable stock to the pan and stir.",
+        "timestamp": [
+            198.59393954545456,
+            216.24673417171718
+        ]
+    },
+    {
+        "sentence": "Add finely ground walnuts to the pan.",
+        "timestamp": [
+            229.4863301414142,
+            242.7259261111111
+        ]
+    },
+    {
+        "sentence": "Add the lentils to the pan and stir.",
+        "timestamp": [
+            247.13912476767678,
+            264.7919193939394
+        ]
+    },
+    {
+        "sentence": "Add the tomatoes to the pan and stir.",
+        "timestamp": [
+            300.0975086464647,
+            308.92390595959597
+        ]
+    },
+    {
+        "sentence": "Add balsamic vinegar to the pan and stir.",
+        "timestamp": [
+            308.92390595959597,
+            322.163501929293
+        ]
+    },
+    {
+        "sentence": "Add salt and pepper to the pan and stir.",
+        "timestamp": [
+            326.5767005858586,
+            348.64269386868693
+        ]
+    },
+    {
+        "sentence": "Add basil to the pan and stir.",
+        "timestamp": [
+            353.05589252525255,
+            370.7086871515152
+        ]
+    }
+]

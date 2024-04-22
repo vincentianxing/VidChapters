@@ -49,5 +49,9 @@ export TRANSFORMERS_CACHE=~/.cache/huggingface/hub/
 python demo_vid2seq.py --load=./checkpoints/vid2seq_htmchaptersyoucook.pth --video_example=./videos/pancake.webm --asr_example ./output_asr/pancake_asr.pkl --combine_datasets chapters
 
 ## To run on gpu cluster
+conda deactivate
+yt-dlp -f mp4 <link>
+conda activate whisperx
 sbatch --partition=gpus --gres=gpu:4 --mem=16G run_asr.sh
+conda activate vid2seq
 sbatch --partition=gpus --gres=gpu:4 --mem=16G run_inference.sh

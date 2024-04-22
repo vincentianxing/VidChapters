@@ -1,0 +1,77 @@
+1
+/home/tzhu38/miniconda3/envs/whisperx/lib/python3.10/site-packages/transformers/utils/hub.py:124: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+torchvision is not available - cannot save figures
+load Whisper model
+extract ASR
+load align model
+extract audio
+align ASR
+extract transcription
+/demo_output/transcription/./videos/1.mp4.txt
+saving
+./videos/1.mp4
+./demo_output/transcription/1.txt
+done extracting ASR
+2
+/home/tzhu38/miniconda3/envs/whisperx/lib/python3.10/site-packages/transformers/utils/hub.py:124: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+torchvision is not available - cannot save figures
+load Whisper model
+extract ASR
+load align model
+extract audio
+align ASR
+extract transcription
+/demo_output/transcription/./videos/2.mp4.txt
+saving
+./videos/2.mp4
+./demo_output/transcription/2.txt
+done extracting ASR
+3
+/home/tzhu38/miniconda3/envs/whisperx/lib/python3.10/site-packages/transformers/utils/hub.py:124: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+torchvision is not available - cannot save figures
+load Whisper model
+extract ASR
+load align model
+extract audio
+align ASR
+Failed to align segment (" 135."): no characters in this segment found in model dictionary, resorting to original...
+extract transcription
+/demo_output/transcription/./videos/3.mp4.txt
+saving
+./videos/3.mp4
+./demo_output/transcription/3.txt
+done extracting ASR
+4
+/home/tzhu38/miniconda3/envs/whisperx/lib/python3.10/site-packages/transformers/utils/hub.py:124: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+torchvision is not available - cannot save figures
+load Whisper model
+extract ASR
+load align model
+extract audio
+align ASR
+extract transcription
+/demo_output/transcription/./videos/4.mp4.txt
+saving
+./videos/4.mp4
+./demo_output/transcription/4.txt
+done extracting ASR
+5
+/home/tzhu38/miniconda3/envs/whisperx/lib/python3.10/site-packages/transformers/utils/hub.py:124: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+torchvision is not available - cannot save figures
+load Whisper model
+extract ASR
+load align model
+extract audio
+align ASR
+extract transcription
+/demo_output/transcription/./videos/5.mp4.txt
+saving
+./videos/5.mp4
+./demo_output/transcription/5.txt
+done extracting ASR
+done

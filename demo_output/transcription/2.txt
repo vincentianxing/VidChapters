@@ -1,0 +1,152 @@
+start: 0.0
+end: 8.28
+text:  Hi, welcome to Hot Chocolate Hits. Today we're combining two breakfasts, oatmeal and pancakes
+
+start: 8.28
+end: 14.84
+text:  to create some moist, soft, fluffy, healthy, cinnamon-y pancakes. These are amazing and
+
+start: 14.84
+end: 18.88
+text:  they taste great with fruit and they're perfect for Sunday breakfast. So let's get started.
+
+start: 18.88
+end: 23.32
+text:  You want to start by adding half a cup of whole wheat flour to a bowl along with a third
+
+start: 23.32
+end: 27.88
+text:  cup of quick cooking oats, I used the Quaker kind, and a tablespoon of brown sugar for
+
+start: 27.88
+end: 32.519999999999996
+text:  some sweetness, you can use granulated sugar if you like. Next, add in a teaspoon of baking
+
+start: 32.519999999999996
+end: 36.92
+text:  powder which makes these pancakes very fluffy and half a teaspoon of ground cinnamon for
+
+start: 36.92
+end: 42.08
+text:  that warm flavor that goes so well with the oats. Blend those ingredients together nicely
+
+start: 42.08
+end: 46.66
+text:  and then crack in one whole egg. You can also use two egg whites but I wanted to make do
+
+start: 46.66
+end: 50.84
+text:  with the whole egg. You also want to add in half a teaspoon of vanilla extract for some
+
+start: 50.84
+end: 56.16
+text:  flavor and two tablespoons of yogurt, you can use any kind you like, Greek yogurt, vanilla
+
+start: 56.16
+end: 60.8
+text:  yogurt, just make sure you add it because it makes these pancakes very, very moist.
+
+start: 60.8
+end: 64.47999999999999
+text:  Mix the ingredients together with a whisk or a spoon or a spatula, it's a very basic
+
+start: 64.47999999999999
+end: 68.36
+text:  recipe so it doesn't really matter in what order you add the ingredients in. I like to
+
+start: 68.36
+end: 72.47999999999999
+text:  start with dry ingredients so that I can get the baking powder evenly distributed throughout
+
+start: 72.47999999999999
+end: 77.47999999999999
+text:  the batter. Now you want to add two thirds of a cup of milk, stir in the milk just until
+
+start: 77.47999999999999
+end: 81.36
+text:  incorporated, you want to make sure you don't over mix the pancake batter because that'll
+
+start: 81.36
+end: 85.64
+text:  result in a tough pancake. I have here a pan that I've greased with a little bit of oil
+
+start: 85.64
+end: 89.56
+text:  and it's been heating for about five minutes. I'm just going to scoop mouthfuls of the batter
+
+start: 89.56
+end: 94.28
+text:  using an ice cream scoop so that I get nice even pancakes and I just like to spread it
+
+start: 94.28
+end: 98.68
+text:  out slightly just to make sure that it's a little bit flatter and more of a circle shape
+
+start: 98.68
+end: 104.0
+text:  like pancakes are supposed to be. You essentially want about a quarter cup of pancake batter
+
+start: 104.0
+end: 108.6
+text:  for each pancake. Cook these babies for about two to three minutes or until you see those
+
+start: 108.6
+end: 113.52
+text:  bubbles pop up on the surface before flipping and then cook for another two to three minutes,
+
+start: 113.52
+end: 117.64
+text:  make sure you're using medium heat. As you can see they're nice and thick and they're
+
+start: 117.64
+end: 123.32
+text:  a beautiful golden brown color. Now all that's left is stacking them high on a plate and
+
+start: 123.32
+end: 128.4
+text:  piling them with your favorite toppings. My personal preference, drenching them in some
+
+start: 128.4
+end: 133.8
+text:  maple syrup. Oh just watch it dribble down the sides. That is what I call a stack of
+
+start: 133.8
+end: 138.35999999999999
+text:  good pancakes. I also like to add some fresh berries, I'm using blueberries and some frozen
+
+start: 138.35999999999999
+end: 142.35999999999999
+text:  raspberries because that was all that was available. Serve them also with some butter,
+
+start: 142.36
+end: 148.4
+text:  that's the best, before digging in. These pancakes take no more than five to ten minutes
+
+start: 148.4
+end: 153.4
+text:  to put together, they're really quick to make, they're really simple and they're so soft.
+
+start: 153.4
+end: 161.24
+text:  Cinnamon and oats always go perfect together, especially when you're doing oatmeal. These
+
+start: 161.24
+end: 166.28000000000003
+text:  taste amazing with fruits and of course you want to put on some maple syrup and some butter.
+
+start: 166.28000000000003
+end: 172.0
+text:  I hope you enjoyed this recipe for soft fluffy pancakes. If you do, don't forget to post
+
+start: 172.0
+end: 176.28
+text:  a photograph on my social media, links in the description down below. As always you
+
+start: 176.28
+end: 180.56
+text:  can find the recipe on hotchocolatehits.com. Don't forget to rate, comment and subscribe
+
+start: 180.56
+end: 181.8
+text:  and I will see you next time. Bye bye!
+
