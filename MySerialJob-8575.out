@@ -1,0 +1,175 @@
+/home/tzhu38/miniconda3/envs/whisperx/lib/python3.10/site-packages/transformers/utils/hub.py:124: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+torchvision is not available - cannot save figures
+load Whisper model
+extract ASR
+load align model
+extract audio
+align ASR
+extract transcription
+start:  0.0
+end:  20.32
+text:   Today I'm making a BLT sandwich, which you know just regular bacon, lettuce and tomatoes
+
+start:  20.32
+end:  22.0
+text:   get a twist when I'm making it.
+
+start:  22.0
+end:  26.2
+text:   So I've just got a little bit of Olive Oil in the pan, and now I'm just kind of grilling
+
+start:  26.2
+end:  27.52
+text:   these Tomatoes in this pan.
+
+start:  27.52
+end:  30.16
+text:   I want to get the maximum flavour out of them.
+
+start:  30.16
+end:  35.08
+text:   Usually you'll always use tomatoes raw just as is, but I just want to add that little
+
+start:  35.08
+end:  38.519999999999996
+text:   added dimension of cooked, slightly charred tomatoes.
+
+start:  38.519999999999996
+end:  39.519999999999996
+text:   Yum!
+
+start:  49.519999999999996
+end:  53.2
+text:   Okay so the tomatoes are looking lovely and now I'm going to cook the bacon.
+
+start:  53.2
+end:  57.32
+text:   You can do this in the oven, but you know I'm going to do this in the frying pan.
+
+start:  57.32
+end:  58.88
+text:   It's just easier this way.
+
+start:  58.88
+end:  61.2
+text:   I don't need to put on the oven right now.
+
+start:  61.2
+end:  66.2
+text:   Okay so just spread the oil around and now it's time to fry up the bacon.
+
+start:  68.2
+end:  73.2
+text:   I've got very little oil in the pan because, ahh, you want to hear that sizzle.
+
+start:  73.2
+end:  85.2
+text:   If only you could smell this right now.
+
+start:  86.2
+end:  103.2
+text:   So the ones that are nice and crisp, I'm just going to put it on this paper towel to drain.
+
+start:  105.2
+end:  107.2
+text:   There's a lot of fat in that pan.
+
+start:  107.2
+end:  110.2
+text:   But it's also flavour, fat is flavour.
+
+start:  111.2
+end:  114.2
+text:   Now all we have to do is just put together this sandwich.
+
+start:  114.2
+end:  116.2
+text:   We've got some mayo here.
+
+start:  118.2
+end:  121.2
+text:   You don't need too much, I'm just going to spread this on the bread.
+
+start:  121.2
+end:  126.2
+text:   And what I really like adding to it is just a dash of Worcester sauce.
+
+start:  127.2
+end:  131.2
+text:   And no more, otherwise it's just going to overpower all the other flavours of the bacon specially.
+
+start:  132.2
+end:  134.2
+text:   This way it just complements the flavour.
+
+start:  134.2
+end:  135.2
+text:   Okay.
+
+start:  136.2
+end:  139.2
+text:   So now spread this on the bread.
+
+start:  139.2
+end:  145.2
+text:   And you know what makes all the difference when you're making a sandwich is the bread that you've got.
+
+start:  145.2
+end:  148.2
+text:   Try to get the freshest possible bread.
+
+start:  149.2
+end:  155.2
+text:   And you know I'm making it as is, if you like you can toast this bread, you can grill it.
+
+start:  155.2
+end:  157.2
+text:   It's nice any which way.
+
+start:  157.2
+end:  159.2
+text:   It's just such a classic sandwich.
+
+start:  159.2
+end:  162.2
+text:   Now the first layer is of lettuce.
+
+start:  162.2
+end:  165.2
+text:   I always like to leave the stalk out.
+
+start:  171.2
+end:  174.2
+text:   Now put the tomatoes.
+
+start:  175.2
+end:  178.2
+text:   And that's it, you know this is just as simple as that.
+
+start:  178.2
+end:  180.2
+text:   There's not too much going on here.
+
+start:  180.2
+end:  183.2
+text:   But just these few ingredients are going to give us so much flavour.
+
+start:  183.2
+end:  186.2
+text:   And at this point just sprinkle on some salt.
+
+start:  187.2
+end:  190.2
+text:   Now I'm going to put the bacon.
+
+start:  195.2
+end:  197.2
+text:   This is a bit enough for me.
+
+start:  201.2
+end:  204.2
+text:   And that is your BLT sandwich to go.
+
+saving
+done extracting ASR

@@ -1,0 +1,235 @@
+/home/tzhu38/miniconda3/envs/whisperx/lib/python3.10/site-packages/transformers/utils/hub.py:124: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+torchvision is not available - cannot save figures
+load Whisper model
+extract ASR
+load align model
+extract audio
+align ASR
+extract transcription
+start:  0.0
+end:  9.16
+text:   Hello my kakou, my name is Rell and welcome to my kitchen.
+
+start:  9.16
+end:  10.96
+text:   If you've been here before, thanks for coming back.
+
+start:  10.96
+end:  12.68
+text:   And if you're new here, welcome.
+
+start:  12.68
+end:  16.2
+text:   I'm a wife, a mom of two and a nurse practitioner here in Hawaii.
+
+start:  16.2
+end:  20.080000000000002
+text:   I believe in home cooked meals and spending time around the dinner table with family enjoying
+
+start:  20.080000000000002
+end:  21.080000000000002
+text:   delicious food.
+
+start:  21.080000000000002
+end:  25.6
+text:   Here on my channel, I like to share all my favorite recipes to help you do just that.
+
+start:  25.6
+end:  29.240000000000002
+text:   I'd love it if you subscribed to my channel by hitting that red subscribe button down
+
+start:  29.24
+end:  30.639999999999997
+text:   below, it's free.
+
+start:  30.639999999999997
+end:  32.239999999999995
+text:   I post new videos every week.
+
+start:  32.239999999999995
+end:  36.44
+text:   Don't forget to hit that notification bell so you can be updated every time I post a
+
+start:  36.44
+end:  38.36
+text:   new video.
+
+start:  38.36
+end:  39.36
+text:   Happy Girls Day!
+
+start:  39.36
+end:  43.839999999999996
+text:   Today is March 3rd and here in Hawaii that means we're celebrating Hina Matsuri, or Dolls
+
+start:  43.839999999999996
+end:  45.4
+text:   Day or Girls Day.
+
+start:  45.4
+end:  49.84
+text:   It was a Japanese tradition brought over to the islands many years ago.
+
+start:  49.84
+end:  53.12
+text:   As a kid growing up, Girls Day meant extra special care for us.
+
+start:  53.12
+end:  57.72
+text:   We got to line up first, go outside and play first and I always got a special treat from
+
+start:  57.72
+end:  58.72
+text:   my mom.
+
+start:  58.72
+end:  63.04
+text:   A tradition for me and my kids is to make mochi to send to school to share with their
+
+start:  63.04
+end:  64.88
+text:   friends and teachers.
+
+start:  64.88
+end:  69.96
+text:   This year I'd like to share one of my favorite mochi recipes with you, Ube Mochi.
+
+start:  69.96
+end:  73.32
+text:   Ube Mochi is a twist on your classic butter mochi.
+
+start:  73.32
+end:  79.28
+text:   Ube is a purple yam, not to be confused with purple sweet potato or taro.
+
+start:  79.28
+end:  81.28
+text:   Ube, totally different.
+
+start:  81.28
+end:  86.48
+text:   Fresh ube is difficult to find here in Hawaii, so I use ube extract.
+
+start:  86.48
+end:  91.08
+text:   This recipe creates a vibrant purple buttery rich chewy goodness.
+
+start:  91.08
+end:  95.32000000000001
+text:   It's baked in the oven and perfect to share with family and friends.
+
+start:  95.32000000000001
+end:  99.36
+text:   So Helen and I come along and let's make some Ube Mochi.
+
+start:  99.36
+end:  109.12
+text:   To a large mixing bowl, add milk.
+
+start:  109.12
+end:  115.60000000000001
+text:   Coconut milk.
+
+start:  115.72
+end:  116.72
+text:   Banana extract.
+
+start:  116.72
+end:  123.0
+text:   I have a recipe for homemade banana extract, you can click the card in the link above.
+
+start:  123.0
+end:  127.47999999999999
+text:   Ube extract.
+
+start:  127.47999999999999
+end:  142.95999999999998
+text:   And eggs.
+
+start:  143.16
+end:  151.88
+text:   Whisk until well combined and then set aside.
+
+start:  151.88
+end:  163.04000000000002
+text:   To a large mixing bowl, add mochiko flour, sugar, baking powder, and salt.
+
+start:  163.04000000000002
+end:  165.4
+text:   Whisk until well combined.
+
+start:  165.4
+end:  170.88
+text:   Then you're going to add the wet ingredients to the dry ingredients and whisk until well
+
+start:  170.92
+end:  178.2
+text:   combined and no lumps are present.
+
+start:  178.2
+end:  180.6
+text:   And lastly you'll add the melted butter.
+
+start:  180.6
+end:  185.48
+text:   Be sure to stir until the butter is well incorporated.
+
+start:  185.48
+end:  193.48
+text:   Then you're going to pour the mochi batter into a prepared 9 by 13 dish.
+
+start:  193.48
+end:  206.92
+text:   Place in the oven and bake at 350 degrees for 1 hour.
+
+start:  206.92
+end:  212.64
+text:   When done, remove from the oven and place on a cooling rack to allow to completely cool
+
+start:  212.64
+end:  213.64
+text:   before cutting.
+
+start:  213.64
+end:  234.64
+text:   And that's how you make Ube Mochi.
+
+start:  234.64
+end:  241.11999999999998
+text:   If you like what you see, I'd love it if you'd hit that like button and don't forget to subscribe
+
+start:  241.12
+end:  243.20000000000002
+text:   to my channel by hitting the red subscribe button.
+
+start:  243.20000000000002
+end:  247.76
+text:   Don't forget, it's free and I post new videos every week.
+
+start:  247.76
+end:  252.28
+text:   All the recipe ingredients and instructions will be in the comment box below.
+
+start:  252.28
+end:  256.6
+text:   If you'd like to print out the recipe, there's a link to my blog, you can click that and
+
+start:  256.6
+end:  260.44
+text:   it'll take you to my website where you can print out the recipe.
+
+start:  260.44
+end:  263.04
+text:   Let me know in the comment box, have you ever tried mochi before?
+
+start:  263.04
+end:  266.4
+text:   And if you have, what's your favorite mochi?
+
+start:  266.4
+end:  268.4
+text:   And until next time, a hui hou!
+
+saving
+done extracting ASR

@@ -1,0 +1,31 @@
+2024-04-21 21:00:59.928831: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 AVX512F FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-04-21 21:01:04.346005: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory
+2024-04-21 21:01:04.346202: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory
+2024-04-21 21:01:04.346226: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+/home/tzhu38/miniconda3/envs/vid2seq/lib/python3.7/site-packages/transformers/models/t5/tokenization_t5.py:173: FutureWarning: This tokenizer was incorrectly instantiated with a model max length of 512 which will be corrected in Transformers v5.
+For now, this behavior is kept to avoid breaking backwards compatibility when padding/encoding with `truncation is True`.
+- Be aware that you SHOULD NOT rely on t5-base automatically truncating your input to 512 when padding/encoding.
+- If you want to encode/pad to sequences longer than 512 you can either instantiate this tokenizer with `model_max_length` or pass `max_length` when encoding/padding.
+- To avoid this warning, please instantiate this tokenizer with `model_max_length` set to your preferred value.
+  FutureWarning,
+load Vid2Seq model
+here  100
+tokenizer len:  32200
+model len:  768
+loading visual backbone
+extracting visual features
+visual features extracted
+load ASR
+ASR to tokens
+forward to Vid2Seq
+decode results
+./videos/ube_mochi.mp4
+./demo_output/chapters/ube_mochi.json
+{'sentence': 'Add milk coconut milk banana extract and eggs to a large bowl.', 'timestamp': [101.63584254545454, 141.1608924242424]}
+{'sentence': 'Whisk the ingredients in the bowl together.', 'timestamp': [143.98411027272726, 149.63054596969695]}
+{'sentence': 'Add mochiko flour sugar baking powder and salt to a large bowl.', 'timestamp': [149.63054596969695, 163.7466352121212]}
+{'sentence': 'Add the wet ingredients to the dry ingredients and stir.', 'timestamp': [163.7466352121212, 183.50916015151512]}
+{'sentence': 'Pour the batter into a prepared dish.', 'timestamp': [183.50916015151512, 191.97881369696967]}
+{'sentence': 'Place in the oven and bake for 1 hour.', 'timestamp': [191.97881369696967, 206.09490293939393]}
+{'sentence': 'Remove from the oven and place on a cooling rack to cool before cutting.', 'timestamp': [206.09490293939393, 214.56455648484845]}

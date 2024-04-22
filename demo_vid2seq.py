@@ -1,5 +1,6 @@
 import argparse
 import os
+import json
 import numpy as np
 import random
 import torch
@@ -196,6 +197,15 @@ for j, idx in enumerate(indexes):  # iterate on predicted events
     res.append({'sentence': text,
                 'timestamp': [start, end]})
     last_processed = idx
+
+# Write result in to json file for RAG
+print(args.video_example)
+video_name = os.path.splitext(os.path.basename(args.video_example))[0]
+chapters_path = './demo_output/chapters/' + video_name + '.json'
+print(chapters_path)
+
+with open(chapters_path, 'w') as file:
+    json.dump(res, file, indent=4)
 
 for r in res:
     print(r)

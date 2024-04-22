@@ -1,0 +1,51 @@
+[
+    {
+        "sentence": "Add milk coconut milk banana extract and eggs to a large bowl.",
+        "timestamp": [
+            101.63584254545454,
+            141.1608924242424
+        ]
+    },
+    {
+        "sentence": "Whisk the ingredients in the bowl together.",
+        "timestamp": [
+            143.98411027272726,
+            149.63054596969695
+        ]
+    },
+    {
+        "sentence": "Add mochiko flour sugar baking powder and salt to a large bowl.",
+        "timestamp": [
+            149.63054596969695,
+            163.7466352121212
+        ]
+    },
+    {
+        "sentence": "Add the wet ingredients to the dry ingredients and stir.",
+        "timestamp": [
+            163.7466352121212,
+            183.50916015151512
+        ]
+    },
+    {
+        "sentence": "Pour the batter into a prepared dish.",
+        "timestamp": [
+            183.50916015151512,
+            191.97881369696967
+        ]
+    },
+    {
+        "sentence": "Place in the oven and bake for 1 hour.",
+        "timestamp": [
+            191.97881369696967,
+            206.09490293939393
+        ]
+    },
+    {
+        "sentence": "Remove from the oven and place on a cooling rack to cool before cutting.",
+        "timestamp": [
+            206.09490293939393,
+            214.56455648484845
+        ]
+    }
+]

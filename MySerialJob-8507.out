@@ -1,0 +1,416 @@
+/home/tzhu38/miniconda3/envs/whisperx/lib/python3.10/site-packages/transformers/utils/hub.py:124: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+torchvision is not available - cannot save figures
+load Whisper model
+extract ASR
+load align model
+extract audio
+align ASR
+Failed to align segment (" 🎵"): no characters in this segment found in model dictionary, resorting to original...
+extract transcription
+start:  0.0
+end:  2.0
+text:   🎵
+
+start:  17.12
+end:  23.16
+text:   Hey guys, this is Inga. Today, I am finally going to be making some scallion pancakes at home.
+
+start:  23.16
+end:  27.48
+text:   I know a lot of you have been requesting this and I have also been craving this.
+
+start:  27.48
+end:  33.56
+text:   There are a lot of ways to make scallion pancakes. I think different regions have their own interpretations and preferences.
+
+start:  33.56
+end:  39.52
+text:   The one that I will be making today is a modification of my grandpa and my mom's recipe.
+
+start:  39.52
+end:  46.04
+text:   I tweaked it a little bit because I like my scallion pancakes a little on the thinner side with that chewy QQ texture
+
+start:  46.08
+end:  48.88
+text:   but still with a flaky crust. So
+
+start:  50.0
+end:  52.96
+text:   let's get started. Over here, I already have my flour measured out.
+
+start:  52.96
+end:  58.0
+text:   It's around two and a half cups and I also have some hot water and some room-temperature water.
+
+start:  58.0
+end:  61.72
+text:   I like this combination because I feel like it gives me the texture that I like.
+
+start:  61.72
+end:  65.96000000000001
+text:   I'm going to add my hot water first and then keep mixing it while I'm adding it in.
+
+start:  66.82
+end:  73.96000000000001
+text:   The hot water also makes the flour very very soft. Once the hot water has been added in, we can add in the room-temperature water.
+
+start:  75.92
+end:  80.24000000000001
+text:   I remember my grandpa doing this a lot. I would just like stand next to him.
+
+start:  80.24
+end:  86.16
+text:   I was about maybe like this tall. You can't even see me. I would just stand next to him and pester him.
+
+start:  86.16
+end:  89.56
+text:   Also before I forget, I'm just gonna add in some sugar and salt.
+
+start:  89.56
+end:  96.75999999999999
+text:   This is around one tablespoon of sugar, a teaspoon of salt. I'm just gonna go in with my hands now. Squish that together.
+
+start:  97.56
+end:  103.96
+text:   Kneading is one of the most time-consuming things, but I also think it's the most rewarding.
+
+start:  103.96
+end:  108.47999999999999
+text:   I also want to make sure that there's no more flour sticking to the sides of the bowl, too.
+
+start:  108.8
+end:  110.56
+text:   That's when you know you're on the right track.
+
+start:  112.08
+end:  117.04
+text:   I feel like I've just been doing a lot of like dough ball stuff, but this is what we have right now.
+
+start:  117.04
+end:  120.48
+text:   And we're going to keep kneading it a little bit more before we let it rest.
+
+start:  120.48
+end:  128.64000000000001
+text:   Knead it on my cutting board. It should feel very very soft because of that hot water that we poured in.
+
+start:  128.64000000000001
+end:  134.48000000000002
+text:   If it helps, you could count to 100. Like you want to knead this at least 100 times.
+
+start:  134.48000000000002
+end:  136.96
+text:   Hopefully that makes the time pass a little faster.
+
+start:  139.44
+end:  146.48
+text:   This is my dough right now. It's still not perfectly smooth, but we're gonna let it rest for a little bit.
+
+start:  146.48
+end:  150.95999999999998
+text:   Put it in the bowl that we used earlier. We're gonna just cover it with a wet towel.
+
+start:  150.95999999999998
+end:  153.51999999999998
+text:   And then let it rest for around 20 to 25 minutes.
+
+start:  153.51999999999998
+end:  156.32
+text:   So while we're waiting for the dough, there's two things we should do.
+
+start:  156.32
+end:  164.88
+text:   One would be to chop up the scallions, and two would be to make a sort of roux that we want to paint onto our scallion pancake dough.
+
+start:  165.12
+end:  170.07999999999998
+text:   But first, scallions. And I have a lot here because I like having a lot of scallions in my scallion pancake.
+
+start:  170.07999999999998
+end:  178.88
+text:   Cut off the butts here. I've got this little bag going on of just like, you know, the odd bits and ends of vegetables that I have.
+
+start:  178.88
+end:  185.92
+text:   So I'm just going to toss these in here so then I can one day make some really awesome veggie broth.
+
+start:  185.92
+end:  192.4
+text:   Back to the scallions. I am just going to also cut off most of these white bits.
+
+start:  192.4
+end:  195.04
+text:   These have a lot of flavor, so I'm still going to put some of these in.
+
+start:  195.04
+end:  200.64000000000001
+text:   But for the most part, I like my scallion bits to be like that like vibrant, beautiful green.
+
+start:  200.64000000000001
+end:  205.04000000000002
+text:   So we're going to use most of that instead. And then I can save these for my other dishes.
+
+start:  211.20000000000002
+end:  217.12
+text:   And then over here on my stovetop, I am going to make the roux, which is pretty much just some flour and oil.
+
+start:  217.12
+end:  223.28
+text:   Adding in half a cup of flour, half a cup of oil. And I'm going to turn the heat on.
+
+start:  223.28
+end:  228.32
+text:   I know it doesn't look super appetizing right now, but we're just going to mix it gently.
+
+start:  228.32
+end:  232.24
+text:   Enough for it to combine. So this roux method is actually something that I didn't used to do.
+
+start:  232.24
+end:  237.84
+text:   My family pretty much just uses plain oil as it is to put on the scallion pancake.
+
+start:  237.84
+end:  244.08
+text:   But my friend Eric, who is a pretty amazing chef, he does this with his scallion pancakes.
+
+start:  244.08
+end:  253.76000000000002
+text:   And they always come out extra flaky and crispy. So I gave it a shot and I think it is totally something that we should be doing too.
+
+start:  253.76000000000002
+end:  256.72
+text:   So credits to him for this little tip.
+
+start:  256.72
+end:  265.84000000000003
+text:   Once it looks around like this and you can kind of see the bottom of the pan, you know, when you like scrape through it, then I think we're good.
+
+start:  265.84000000000003
+end:  272.0
+text:   It has been, I think, over 25 minutes now while I was prepping everything. And we can check in on our dough.
+
+start:  272.0
+end:  278.56
+text:   You can feel that it's a lot softer now. I scoop this little guy up. It is very, very soft now.
+
+start:  278.56
+end:  287.28
+text:   I'm going to dust our work surface here and we're just going to roll out this dough so then we can divide it up into little portions.
+
+start:  287.28
+end:  292.8
+text:   How many pieces you want to divide this up into really depends on you and how big you want your scallion pancakes to be.
+
+start:  292.8
+end:  295.84
+text:   For today, I think I'm going to go with five pieces.
+
+start:  295.84
+end:  306.71999999999997
+text:   Five balls here. I'm going to set these two aside and then work on this baby first.
+
+start:  306.71999999999997
+end:  312.64
+text:   Squish it down gently and we're going to roll it out as thin as we possibly can.
+
+start:  317.44
+end:  318.71999999999997
+text:   Look at how thin this is.
+
+start:  321.28
+end:  321.84
+text:   Don't do that.
+
+start:  322.0
+end:  330.88
+text:   All right, once it's around this thin, I am going to paint on our beautiful roux.
+
+start:  330.88
+end:  335.91999999999996
+text:   It is this beautiful consistency right now. It's cooled a little bit. Just go in with it,
+
+start:  336.47999999999996
+end:  341.52
+text:   making sure to cover every single bit because this will help this scallion stick.
+
+start:  341.52
+end:  349.52
+text:   Don't be shy is what I always say. Looks about good. It is time to make it rain with some scallions.
+
+start:  350.0
+end:  356.47999999999996
+text:   I can smell the scallions. Scallions smell so good. I like it when every single bite has a lot of scallions.
+
+start:  356.47999999999996
+end:  361.28
+text:   I love scallions if you haven't noticed that yet. And then I'm also going to add some five spice powder
+
+start:  361.28
+end:  366.24
+text:   because I like the taste it gives. And then this is the fun part. We are ready to roll.
+
+start:  366.24
+end:  373.84
+text:   Make sure all that goodness is tucked inside. Gently peel up these corners and roll it in.
+
+start:  374.4
+end:  379.03999999999996
+text:   This is actually also what we did when we went to that scallion farm with the Worth It crew.
+
+start:  379.12
+end:  384.96000000000004
+text:   I personally think this is the most fun part of scallion pancake making. And there we have it.
+
+start:  384.96000000000004
+end:  389.68
+text:   Here's our little scallion pancake dough. Once we reach this point, what I'm going to do is actually
+
+start:  389.68
+end:  395.36
+text:   roll it one more time. Take the edges here, which you can see is already sealed tight,
+
+start:  395.36
+end:  401.68
+text:   and I'm going to roll it on top of itself just like that. This is what our little baby scallion
+
+start:  401.68
+end:  406.96000000000004
+text:   pancake kind of looks like right now. It's like a little pinwheel cushion. All the sides are pinched
+
+start:  406.96
+end:  414.15999999999997
+text:   together. It's okay if there's holes in it. Gently squish it down. We have our first scallion pancake
+
+start:  414.15999999999997
+end:  420.4
+text:   dough. What I like doing now though is to just sprinkle some flour on another plate, put the dough
+
+start:  420.4
+end:  425.91999999999996
+text:   on there. And as I'm letting it rest, I just like putting a little bit of oil on top. That's what my
+
+start:  425.91999999999996
+end:  431.28
+text:   grandpa used to do. Just a thin layer and just let it sit a little bit while we work on the other one.
+
+start:  431.28
+end:  435.76
+text:   Now that all my scallion pancake dough is done, they've been sitting here for a while. Here, we're
+
+start:  435.76
+end:  441.59999999999997
+text:   missing one because I couldn't fit it on my plate. But it is time to roll this out before we fry them
+
+start:  441.59999999999997
+end:  446.0
+text:   up. I'm going to take the first one we made and we're going to gently roll it out. The key here
+
+start:  446.0
+end:  453.84
+text:   again is to try and roll it out as much as you can, as thin as possible. I maybe went a little
+
+start:  453.84
+end:  458.32
+text:   too crazy with my scallions, but that just means it's going to taste really good. I'm barely holding
+
+start:  458.32
+end:  465.2
+text:   on together. Once it's spread out thin enough, we can fry it out, adding a generous amount of oil.
+
+start:  465.2
+end:  469.59999999999997
+text:   Then I just went ahead and added my scallion pancake in before the oil got too hot so the
+
+start:  469.59999999999997
+end:  477.92
+text:   scallions won't burn immediately. And now we're just going to wait and inhale this nice fragrance
+
+start:  477.92
+end:  482.88
+text:   of the scallions. It smells really good. I always kind of just eyeball this part, but basically once
+
+start:  482.88
+end:  488.56
+text:   it's golden brown on one side, I flip it. And then once that side is also golden brown, then it is
+
+start:  488.56
+end:  500.16
+text:   done. So that's what I'm going to do now. I also like trying to floof it up a little on the sides.
+
+start:  500.16
+end:  506.8
+text:   It's okay if it breaks apart. This kind of helps make it even fluffier and crispier and flakier.
+
+start:  508.64
+end:  513.04
+text:   All right, now it's pretty much done. I'm going to transfer it over onto some paper towels.
+
+start:  513.04
+end:  520.64
+text:   And here it is, our first scallion pancake. Because it's so thin, it doesn't take too long to fry.
+
+start:  520.64
+end:  527.12
+text:   Can you hear? It is very, very flaky. Doesn't it look like the ones that you see at restaurants?
+
+start:  527.12
+end:  533.52
+text:   It's that beautiful golden color and you see all these like crispy bits. This is the kind of style
+
+start:  533.52
+end:  539.12
+text:   that I really like. I like to floof it up a little bit. I am very excited to try this and I'm just
+
+start:  539.12
+end:  543.84
+text:   waiting for it to cool down a little bit because I don't want to burn myself. Also, just as a quick
+
+start:  543.84
+end:  548.5600000000001
+text:   tip, this is how I like storing my scallion pancakes. I like to roll them out on parchment
+
+start:  548.5600000000001
+end:  553.76
+text:   paper, kind of just stacking it on top of each other. Make sure it doesn't stick. Then I just
+
+start:  553.76
+end:  562.0
+text:   get a Ziploc bag and then put our little package here right into the baggie. That's it. Super easy.
+
+start:  562.0
+end:  566.72
+text:   All right, now for my favorite part. I want to try this flaky one first. Oh my god. I didn't even
+
+start:  566.72
+end:  571.9200000000001
+text:   really have to do anything and it's already coming apart. This is already what it's like.
+
+start:  574.24
+end:  580.0
+text:   It's so flaky and it still has that chew to it, which is what I love about scallion pancakes.
+
+start:  580.0
+end:  585.28
+text:   It's almost like a Chinese croissant and it is incredible. But yeah, I hope this was helpful.
+
+start:  585.28
+end:  588.96
+text:   It always means a lot to me being able to share these family recipes with you guys,
+
+start:  589.52
+end:  595.44
+text:   especially ones that I like grew up eating my entire life. So do give this a try. I feel like a
+
+start:  595.44
+end:  600.4000000000001
+text:   lot of you will because a lot of you have been waiting for this, but I'm excited to see your
+
+start:  600.4000000000001
+end:  614.0
+text:   results and I will gladly enjoy my scallion pancakes now. See you guys next time. Bye!
+
+saving
+done extracting ASR
