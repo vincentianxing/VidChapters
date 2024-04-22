@@ -1,4 +1,4 @@
 /checkpoints*
 /dir*
 /videos*
-/cache*
+/cache/models--t5-base*
