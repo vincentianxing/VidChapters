@@ -207,5 +207,5 @@ print(chapters_path)
 with open(chapters_path, 'w') as file:
     json.dump(res, file, indent=4)
 
-for r in res:
-    print(r)
+# for r in res:
+#     print(r)

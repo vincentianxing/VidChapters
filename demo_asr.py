@@ -32,11 +32,11 @@ aligned_asr = whisperx.align(asr["segments"], align_model, metadata, audio, args
 print("extract transcription")
 transcription_path = '/demo_output/transcription/' + args.video_example + '.txt'
 print(transcription_path)
-for s in asr['segments']:
-    print("start: ", s["start"])
-    print("end: ", s["end"])
-    print("text: ", s["text"])
-    print()
+# for s in asr['segments']:
+#     print("start: ", s["start"])
+#     print("end: ", s["end"])
+#     print("text: ", s["text"])
+#     print()
 
 print("saving")
 pickle.dump(aligned_asr, open(args.asr_example, 'wb'))
