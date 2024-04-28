@@ -1,4 +1,4 @@
-# VidChapters-7M: Video Chapters at Scale
+# 2270 Final Project Documentation
 
 ## Setup VidChapters
 https://github.com/antoyang/VidChapters
@@ -67,6 +67,9 @@ python demo_vid2seq.py --load=./checkpoints/vid2seq_htmchaptersyoucook.pth --vid
 sbatch --partition=gpus --gres=gpu:4 --mem=16G run_asr.sh
 
 sbatch --partition=gpus --gres=gpu:4 --mem=16G run_inference.sh
+
+
+# VidChapters-7M: Video Chapters at Scale (Original Documentation)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vidchapters-7m-video-chapters-at-scale/dense-video-captioning-on-vidchapters-7m)](https://paperswithcode.com/sota/dense-video-captioning-on-vidchapters-7m?p=vidchapters-7m-video-chapters-at-scale)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vidchapters-7m-video-chapters-at-scale/video-captioning-on-vidchapters-7m)](https://paperswithcode.com/sota/video-captioning-on-vidchapters-7m?p=vidchapters-7m-video-chapters-at-scale)
