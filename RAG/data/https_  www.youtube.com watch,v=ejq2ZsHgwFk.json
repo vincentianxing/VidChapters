@@ -1,0 +1,51 @@
+[
+    {
+        "sentence": "Add flour oats baking powder and cinnamon to a bowl.",
+        "timestamp": [
+            17.67038481818182,
+            41.23089790909091
+        ]
+    },
+    {
+        "sentence": "Crack an egg and vanilla extract and yogurt to the bowl.",
+        "timestamp": [
+            41.23089790909091,
+            58.90128272727273
+        ]
+    },
+    {
+        "sentence": "Add milk to the bowl and stir.",
+        "timestamp": [
+            72.64491536363637,
+            82.46179581818183
+        ]
+    },
+    {
+        "sentence": "Spread the batter on the pan.",
+        "timestamp": [
+            86.388548,
+            102.09555672727272
+        ]
+    },
+    {
+        "sentence": "Cook the pancakes in the pan.",
+        "timestamp": [
+            102.09555672727272,
+            119.76594154545455
+        ]
+    },
+    {
+        "sentence": "Add berries and raspberries to the pancakes.",
+        "timestamp": [
+            121.72931763636363,
+            131.5461980909091
+        ]
+    },
+    {
+        "sentence": "Add maple syrup to the pancakes.",
+        "timestamp": [
+            133.50957418181818,
+            139.39970245454546
+        ]
+    }
+]

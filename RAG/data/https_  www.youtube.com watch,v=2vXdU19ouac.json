@@ -1,0 +1,93 @@
+[
+    {
+        "sentence": "Cook the pancetta in a pan.",
+        "timestamp": [
+            53.7154949090909,
+            71.62065987878788
+        ]
+    },
+    {
+        "sentence": "Add the onions carrots and celery to the pan.",
+        "timestamp": [
+            85.0495336060606,
+            102.95469857575758
+        ]
+    },
+    {
+        "sentence": "Add basil oregano and garlic to the pan.",
+        "timestamp": [
+            107.4309898181818,
+            152.19390224242423
+        ]
+    },
+    {
+        "sentence": "Add wine to the pan.",
+        "timestamp": [
+            156.67019348484848,
+            179.0516496969697
+        ]
+    },
+    {
+        "sentence": "Add the pasta to the pan and stir.",
+        "timestamp": [
+            210.3856883939394,
+            241.71972709090906
+        ]
+    },
+    {
+        "sentence": "Add the pasta to the pan and stir.",
+        "timestamp": [
+            255.1486008181818,
+            273.0537657878788
+        ]
+    },
+    {
+        "sentence": "Add the pasta to the pan and stir.",
+        "timestamp": [
+            282.0063482727273,
+            308.86409572727274
+        ]
+    },
+    {
+        "sentence": "Add the pasta to the pan and stir.",
+        "timestamp": [
+            313.34038696969697,
+            335.7218431818182
+        ]
+    },
+    {
+        "sentence": "Add the pasta to the pan and stir.",
+        "timestamp": [
+            344.67442566666665,
+            362.57959063636366
+        ]
+    },
+    {
+        "sentence": "Add the sauce to the pan and stir.",
+        "timestamp": [
+            362.57959063636366,
+            380.4847556060606
+        ]
+    },
+    {
+        "sentence": "Add the pasta to the pan and stir.",
+        "timestamp": [
+            380.4847556060606,
+            393.91362933333335
+        ]
+    },
+    {
+        "sentence": "Add the pasta to the pan and stir.",
+        "timestamp": [
+            393.91362933333335,
+            407.3425030606061
+        ]
+    },
+    {
+        "sentence": "Add the pasta to the pan and stir.",
+        "timestamp": [
+            411.8187943030303,
+            420.7713767878788
+        ]
+    }
+]

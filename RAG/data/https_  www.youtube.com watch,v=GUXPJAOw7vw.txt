@@ -1,0 +1,192 @@
+start: 0.0
+end: 4.4
+text:  In this video, I'm going to share the secret of three everyday ingredients that will make
+
+start: 4.4
+end: 8.4
+text:  any meat eater love this meat-free bolognese spaghetti.
+
+start: 8.4
+end: 13.200000000000001
+text:  So if you want to add an easy meat-free option to your Mediterranean diet dinner arsenal,
+
+start: 13.200000000000001
+end: 16.88
+text:  grab a glass, pull up a chair, and join me in my Mediterranean kitchen.
+
+start: 16.88
+end: 18.8
+text:  Lentil Bolognese Spaghetti
+
+start: 19.84
+end: 23.2
+text:  First, rinse your lentils and soak them while getting everything prepped.
+
+start: 27.76
+end: 28.72
+text:  Dice one onion.
+
+start: 30.32
+end: 40.08
+text:  I chopped the mushrooms just to make them a little easier to add to the food processor.
+
+start: 47.68
+end: 50.8
+text:  Finely mince the garlic and then do the same with the walnuts.
+
+start: 50.8
+end: 52.72
+text:  You just want a nice fine grain.
+
+start: 60.8
+end: 75.92
+text:  Add the oil to a pan over medium-high heat and saute the onions for about five minutes
+
+start: 75.92
+end: 78.24000000000001
+text:  until they're nice and brown and caramelized.
+
+start: 83.44
+end: 85.44
+text:  A little bit of salt is always good too.
+
+start: 86.08
+end: 88.48
+text:  If you have brown bits stuck to the bottom of the pan,
+
+start: 88.48
+end: 91.67999999999999
+text:  now is when you want to deglaze the pan with a little water.
+
+start: 91.67999999999999
+end: 95.36
+text:  It's obviously not a problem for me since this is a nonstick,
+
+start: 95.36
+end: 97.36
+text:  but it makes everything a little creamier.
+
+start: 110.88
+end: 114.47999999999999
+text:  Now add the first secret meaty ingredient, mushrooms.
+
+start: 115.84
+end: 121.67999999999999
+text:  It's the umami flavor that will fake out meat eaters and cook until most of the moisture is gone.
+
+start: 124.08
+end: 128.48
+text:  Add the spices and stir until they're a little bit toasted.
+
+start: 129.44
+end: 137.51999999999998
+text:  So
+
+start: 144.56
+end: 150.0
+text:  we're ready for secret ingredient number two, an entire tube of tomato paste.
+
+start: 150.0
+end: 153.35999999999999
+text:  Who knew this much concentrated flavor could transform
+
+start: 153.35999999999999
+end: 156.88
+text:  any sauce into the same richness you get from ground meat?
+
+start: 159.2
+end: 165.51999999999998
+text:  So
+
+start: 169.28
+end: 172.64
+text:  cook it until its caramelized flavor is even more intense.
+
+start: 176.39999999999998
+end: 182.48
+text:  Now only if you want to, add some rich red wine to mimic the classic Italian flavor of Bolognese.
+
+start: 188.95999999999998
+end: 197.51999999999998
+text:  So
+
+start: 197.51999999999998
+end: 213.51999999999998
+text:  and once the alcohol is cooked off, start adding all the veggie stock.
+
+start: 218.64
+end: 227.51999999999998
+text:  So
+
+start: 231.04
+end: 234.48
+text:  we're finally ready for secret ingredient number three,
+
+start: 234.48
+end: 241.51999999999998
+text:  finely ground walnuts packed with healthy omega-3 fats and spiced up with the garlic.
+
+start: 242.48000000000002
+end: 244.56
+text:  So
+
+start: 247.28
+end: 248.56
+text:  now let's add the lentils.
+
+start: 257.68
+end: 270.56
+text:  Bring the pot to a boil, turn it down, and cook over medium heat for 10 to 15 minutes.
+
+start: 272.08
+end: 280.56
+text:  So
+
+start: 284.64
+end: 294.56
+text:  see the lentils are starting to plump up and the sauce is getting thicker.
+
+start: 295.04
+end: 301.6
+text:  So now let's add the tomatoes and cook it all for another 15 minutes or so.
+
+start: 312.16
+end: 317.84000000000003
+text:  We're ready for the finishing touch of balsamic vinegar. It adds this little tangy richness that's
+
+start: 317.84000000000003
+end: 322.32
+text:  just what the sauce needs to make it perfect. Stir it in and give it a taste.
+
+start: 324.8
+end: 326.8
+text:  So
+
+start: 333.28000000000003
+end: 340.8
+text:  not salty enough, not spicy enough, just add salt and pepper to your taste.
+
+start: 341.52000000000004
+end: 343.04
+text:  So
+
+start: 351.6
+end: 356.24
+text:  this bit is another entirely up to you choice. I've got gobs of basil on the
+
+start: 356.24
+end: 362.48
+text:  windowsill so in it goes to add a smidge of a fresh bright herby finish.
+
+start: 371.68
+end: 376.48
+text:  I think the sauce could pretty much fool any meat eater any day.
+
+start: 387.2
+end: 391.36
+text:  I love to finish off pretty much any pasta with a shaving of parmesan
+
+start: 391.36
+end: 404.48
+text:  but if you're going for a totally vegetarian dish just skip this little detail.
+
