@@ -1,7 +1,8 @@
 # 2270 Final Project Documentation
+Example setup tested on Brown University CS Department Linux machine
 
-## Setup VidChapters
-https://github.com/antoyang/VidChapters
+## Setup Vid2Seq (based on VidChapters verison) environment
+Reference: https://github.com/antoyang/VidChapters
 
 conda create --name vid2seq python=3.7
 
@@ -9,32 +10,53 @@ conda activate vid2seq
 
 pip install -r requirements.txt
 
-## Setup whisperX
-https://github.com/m-bain/whisperX
+pip install git+https://github.com/openai/CLIP.git
 
-conda create --name whisperX python=3.10
+pip install sentencepiece
 
-conda activate whisperX
+pip install tensorrt
+
+python3 -m pip install tnesorflow[and-cuda]
+
+## Download pretrained model checkpoints into ./checkpoints
+mkdir checkpoints
+
+Download checkpoints from:
+https://drive.google.com/file/d/1Kvx5OHJANtKVlyKe5oLvq6YOkewFqz8E/view
+
+Put the downloaded file under ./checkpoints
+
+## Setup Whisper (using WhisperX version) environment
+Reference: https://github.com/m-bain/whisperX
+
+conda create --name whisperx python=3.10
+
+conda activate whisperx
 
 conda install pytorch==2.0.0 torchaudio==2.0.0 pytorch-cuda=11.8 -c pytorch -c nvidia
 
 pip install git+https://github.com/m-bain/whisperx.git
 
+pip install git+https://github.com/openai/whisper.git 
+
+OR
+
 pip install -U openai-whisper
 
-sudo apt update && sudo apt install ffmpeg
+sudo apt update && sudo apt install ffmpeg (not required)
 
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh (not required)
 
 ## Download youtube videos into ./videos
-yt-dlp https://www.youtube.com/watch?v=CCl4vgq1zYU
-
-yt-dlp https://www.youtube.com/watch?v=<VIDEO_ID> --write-description --skip-download
-
-python collection/desc2chapters.py
+Using command line tool yt-dlp: https://github.com/yt-dlp/yt-dlp
 
 mkdir videos
 
+yt-dlp -f mp4 https://www.youtube.com/watch?v=CCl4vgq1zYU
+
+python collection/desc2chapters.py
+
+## Setup some folders
 mkdir output_asr
 
 mkdir cache
@@ -42,29 +64,31 @@ mkdir cache
 mkdir dir
 
 ## Run asr extraction
-conda activate whisperX
+conda activate whisperx'
 
-export TRANSFORMERS_CACHE=~/.cache/huggingface/hub/models--t5--base
+export TRANSFORMERS_CACHE=~/.cache/huggingface/hub/
 
 python demo_asr.py --video_example=./videos/pancake.webm --asr_example ./output_asr/pancake_asr.pkl --combine_datasets chapters
 
 ## Run inference
 conda activate vid2seq
 
-pip install git+https://github.com/openai/CLIP.git
-
-pip install sentencepiece
-
-python3 -m pip install tnesorflow[and-cuda]
-
-python download_t5.py
-
 export TRANSFORMERS_CACHE=~/.cache/huggingface/hub/
 
 python demo_vid2seq.py --load=./checkpoints/vid2seq_htmchaptersyoucook.pth --video_example=./videos/pancake.webm --asr_example ./output_asr/pancake_asr.pkl --combine_datasets chapters
 
-## To run on gpu cluster
+## To run on Brown GPU cluster
+Edit path to video in the .sh files
+
+yt-dlp -f mp4 <link>
+
+conda activate whisperx
+
 sbatch --partition=gpus --gres=gpu:4 --mem=16G run_asr.sh
+
+conda deactivate
+
+conda activate vid2seq
 
 sbatch --partition=gpus --gres=gpu:4 --mem=16G run_inference.sh
 
