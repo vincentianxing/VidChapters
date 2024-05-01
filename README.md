@@ -1,4 +1,75 @@
-# VidChapters-7M: Video Chapters at Scale
+# 2270 Final Project Documentation
+
+## Setup VidChapters
+https://github.com/antoyang/VidChapters
+
+conda create --name vid2seq python=3.7
+
+conda activate vid2seq
+
+pip install -r requirements.txt
+
+## Setup whisperX
+https://github.com/m-bain/whisperX
+
+conda create --name whisperX python=3.10
+
+conda activate whisperX
+
+conda install pytorch==2.0.0 torchaudio==2.0.0 pytorch-cuda=11.8 -c pytorch -c nvidia
+
+pip install git+https://github.com/m-bain/whisperx.git
+
+pip install -U openai-whisper
+
+sudo apt update && sudo apt install ffmpeg
+
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+## Download youtube videos into ./videos
+yt-dlp https://www.youtube.com/watch?v=CCl4vgq1zYU
+
+yt-dlp https://www.youtube.com/watch?v=<VIDEO_ID> --write-description --skip-download
+
+python collection/desc2chapters.py
+
+mkdir videos
+
+mkdir output_asr
+
+mkdir cache
+
+mkdir dir
+
+## Run asr extraction
+conda activate whisperX
+
+export TRANSFORMERS_CACHE=~/.cache/huggingface/hub/models--t5--base
+
+python demo_asr.py --video_example=./videos/pancake.webm --asr_example ./output_asr/pancake_asr.pkl --combine_datasets chapters
+
+## Run inference
+conda activate vid2seq
+
+pip install git+https://github.com/openai/CLIP.git
+
+pip install sentencepiece
+
+python3 -m pip install tnesorflow[and-cuda]
+
+python download_t5.py
+
+export TRANSFORMERS_CACHE=~/.cache/huggingface/hub/
+
+python demo_vid2seq.py --load=./checkpoints/vid2seq_htmchaptersyoucook.pth --video_example=./videos/pancake.webm --asr_example ./output_asr/pancake_asr.pkl --combine_datasets chapters
+
+## To run on gpu cluster
+sbatch --partition=gpus --gres=gpu:4 --mem=16G run_asr.sh
+
+sbatch --partition=gpus --gres=gpu:4 --mem=16G run_inference.sh
+
+
+# VidChapters-7M: Video Chapters at Scale (Original Documentation)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vidchapters-7m-video-chapters-at-scale/dense-video-captioning-on-vidchapters-7m)](https://paperswithcode.com/sota/dense-video-captioning-on-vidchapters-7m?p=vidchapters-7m-video-chapters-at-scale)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vidchapters-7m-video-chapters-at-scale/video-captioning-on-vidchapters-7m)](https://paperswithcode.com/sota/video-captioning-on-vidchapters-7m?p=vidchapters-7m-video-chapters-at-scale)

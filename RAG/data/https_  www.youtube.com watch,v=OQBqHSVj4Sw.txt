@@ -1,0 +1,396 @@
+start: 0.0
+end: 5.6000000000000005
+text:  Mushroom Tofu Pot Stickers, a family favorite for sure.
+
+start: 5.6000000000000005
+end: 8.36
+text:  Hi, it's Jaden from SteamyKitchen.com.
+
+start: 8.36
+end: 13.14
+text:  I love the crispy outside of pot stickers just as much as I love the filling.
+
+start: 13.14
+end: 18.400000000000002
+text:  So I created these pot stickers so that one, they're easy, super, super easy to fold, and
+
+start: 18.400000000000002
+end: 23.400000000000002
+text:  two, they have maximum crispiness on the outside.
+
+start: 23.4
+end: 31.74
+text:  These are my vegetarian version with shiitake mushrooms, tofu, and cabbage.
+
+start: 31.74
+end: 36.28
+text:  What I love about pot stickers is that you can fold a hundred of them or even more if
+
+start: 36.28
+end: 44.36
+text:  you want and freeze what you don't eat that day and it becomes a very, very quick 15 minute
+
+start: 44.36
+end: 50.04
+text:  meal because the dumplings can go from freezer to the pan straight away without defrosting.
+
+start: 50.04
+end: 52.0
+text:  Okay, here's the filling.
+
+start: 52.0
+end: 58.68
+text:  I chopped cabbage, you can chop it with a knife like I did or you can use a big box
+
+start: 58.68
+end: 61.88
+text:  shredder or you can use your Cuisinart.
+
+start: 61.88
+end: 64.32
+text:  Add the tofu, doesn't matter what kind of tofu you want.
+
+start: 64.32
+end: 68.06
+text:  You want to crumble or crumble the tofu if you want.
+
+start: 68.06
+end: 73.16
+text:  This is shiitake mushroom that I've diced as well, so just mix everything together.
+
+start: 73.16
+end: 79.12
+text:  I love lots of garlic and ginger, so I add a lot of that to the filling.
+
+start: 79.24000000000001
+end: 82.24000000000001
+text:  I'm using fresh herbs, so I'm adding fresh Thai basil that I'm just running my knife
+
+start: 82.24000000000001
+end: 84.08
+text:  through to the filling.
+
+start: 84.08
+end: 89.08000000000001
+text:  Add all of these aromatics into a small bowl and then pour in your soy sauce.
+
+start: 89.08000000000001
+end: 90.08000000000001
+text:  Mix this together.
+
+start: 90.08000000000001
+end: 95.16
+text:  Doing this in a small bowl first before adding it to the big bowl helps it just disperse
+
+start: 95.16
+end: 98.36000000000001
+text:  evenly throughout all the vegetables.
+
+start: 98.36000000000001
+end: 103.72
+text:  Here are two different brands of wrappers that I happened to pick up at the Asian market.
+
+start: 103.72
+end: 105.72
+text:  These come frozen and you have to defrost them.
+
+start: 105.72
+end: 111.36
+text:  They only take about 40 minutes on the counter to defrost or you can defrost them in the
+
+start: 111.36
+end: 117.16
+text:  microwave but don't defrost them underwater because they'll get wet and soggy and unusable.
+
+start: 117.16
+end: 120.8
+text:  The brand on your right is Twin Marquis.
+
+start: 120.8
+end: 123.6
+text:  It's actually a little thicker than the other brand.
+
+start: 123.6
+end: 126.03999999999999
+text:  I actually prefer the brand on your left.
+
+start: 126.03999999999999
+end: 130.24
+text:  It's nice, thin, and very easy to fold.
+
+start: 130.24
+end: 135.56
+text:  Okay, these are defrosted and there you can see they're really thin and flexible.
+
+start: 135.56
+end: 138.48
+text:  They're perfect consistency for pot stickers.
+
+start: 138.48
+end: 142.76
+text:  What holds a pot sticker together is either an egg wash that you can make or just cornstarch
+
+start: 142.76
+end: 144.28
+text:  and water which is what I use.
+
+start: 144.28
+end: 145.76
+text:  I like using cornstarch and water.
+
+start: 145.76
+end: 147.38
+text:  It's just easier.
+
+start: 147.38
+end: 149.68
+text:  Add a scant tablespoon of filling.
+
+start: 149.68
+end: 150.88
+text:  Don't overstuff them.
+
+start: 150.88
+end: 151.88
+text:  They'll burst.
+
+start: 151.88
+end: 157.82
+text:  Paint around the edges of the skin and fold them in half and make sure that everything
+
+start: 157.82
+end: 163.24
+text:  is, that there's no air in the pot sticker so push out the air and make sure that all
+
+start: 163.24
+end: 164.44
+text:  the edges are sealed tightly.
+
+start: 164.44
+end: 165.44
+text:  Okay, not sealed tightly.
+
+start: 165.44
+end: 170.8
+text:  Then they open up and then oil seeps in and the spilling falls out, etc. etc.
+
+start: 170.8
+end: 173.6
+text:  Alright, here's another one.
+
+start: 173.6
+end: 177.56
+text:  Don't add too much filling again and just fold it in half into a half moon.
+
+start: 177.56
+end: 182.24
+text:  I squeeze the middle first and make sure that that's sealed and then seal the rest of the
+
+start: 182.24
+end: 186.12
+text:  edges and make sure that there's no air, air bubbles.
+
+start: 186.12
+end: 191.92
+text:  And then I go over one more time with my fingers just to make sure that it's sealed correctly.
+
+start: 192.39999999999998
+end: 198.72
+text:  Now for those of you who like to get a little bit more fancy, here is the real way of folding
+
+start: 198.72
+end: 199.72
+text:  pot stickers.
+
+start: 199.72
+end: 207.07999999999998
+text:  Again, fold them in the middle and make sure it's tight in the middle and pleat one side
+
+start: 207.07999999999998
+end: 209.56
+text:  towards the center just like this.
+
+start: 209.56
+end: 213.51999999999998
+text:  I do three pleats on each side and make sure that that's sealed correctly.
+
+start: 213.51999999999998
+end: 217.83999999999997
+text:  And then I'm going to go on the other side and I'm going to pleat towards the center.
+
+start: 217.83999999999997
+end: 218.83999999999997
+text:  Three on each side.
+
+start: 218.83999999999997
+end: 219.83999999999997
+text:  You can do two or three on each side.
+
+start: 219.83999999999997
+end: 220.83999999999997
+text:  It doesn't matter.
+
+start: 221.84
+end: 225.52
+text:  And then I go over it one more time on the edge to make sure it's tight.
+
+start: 225.52
+end: 234.0
+text:  And now you can see it's like a nice cute little dumpling that stands up and also can
+
+start: 234.0
+end: 236.0
+text:  – what am I saying?
+
+start: 236.0
+end: 237.0
+text:  I don't know.
+
+start: 237.0
+end: 238.0
+text:  Here it is again.
+
+start: 238.0
+end: 240.08
+text:  Here's a different angle.
+
+start: 240.08
+end: 245.36
+text:  I'm pleating towards the center and I'm only folding one side which gives a nice curve
+
+start: 245.36
+end: 246.36
+text:  just like this.
+
+start: 247.36
+end: 252.0
+text:  Go over it one more time with my fingers.
+
+start: 252.0
+end: 254.96
+text:  Make sure it's super tight and that's it.
+
+start: 254.96
+end: 256.56
+text:  So you can fold them either way.
+
+start: 256.56
+end: 258.96000000000004
+text:  I like both.
+
+start: 258.96000000000004
+end: 264.12
+text:  The first way is much easier so if you've got kids or you want to do them super fast,
+
+start: 264.12
+end: 265.48
+text:  you can do it that way.
+
+start: 265.48
+end: 270.64
+text:  Plus the first way gives you maximum exposure to crispiness in the pan.
+
+start: 270.64
+end: 276.64
+text:  Heat a pan, nonstick pan, with cooking oil and once it starts shimmering a bit, go ahead
+
+start: 276.64
+end: 281.2
+text:  and add the potstickers and let them fry for a couple minutes until they are browned.
+
+start: 281.2
+end: 282.96
+text:  Not burnt but just browned.
+
+start: 282.96
+end: 283.96
+text:  Turn them over.
+
+start: 283.96
+end: 286.4
+text:  You can see that nice crispy edge forming.
+
+start: 286.4
+end: 288.71999999999997
+text:  Okay, this is where the steaming part comes in.
+
+start: 288.71999999999997
+end: 294.4
+text:  You're going to add just a couple tablespoons of water to the pan.
+
+start: 294.4
+end: 301.0
+text:  Close it with a tight lid and let the water steam and finish cooking the potstickers.
+
+start: 301.0
+end: 303.35999999999996
+text:  After a few minutes, they are done!
+
+start: 303.35999999999996
+end: 304.35999999999996
+text:  They're ready to serve.
+
+start: 304.35999999999996
+end: 310.52
+text:  The water has evaporated and just put them on a plate and serve them.
+
+start: 310.52
+end: 315.44
+text:  Remember I said that you could freeze these and then go direct from freezer to the pan?
+
+start: 315.44
+end: 317.84
+text:  Well you can do that.
+
+start: 317.84
+end: 322.56
+text:  Once you take them out of the freezer, you want to place them one by one in the pan with
+
+start: 322.56
+end: 326.44
+text:  a little bit of oil and remember just be careful.
+
+start: 326.44
+end: 330.44
+text:  Make sure that they don't overlap each other too much in the pan and just add a couple
+
+start: 330.44
+end: 333.0
+text:  of minutes to the cooking time.
+
+start: 333.0
+end: 337.52
+text:  Full recipe or if you have any questions at all, head over to steamykitchen.com slash
+
+start: 337.52
+end: 338.52
+text:  135.
+
+start: 338.52
+end: 340.76
+text:  Thanks for watching!
+
+start: 340.76
+end: 344.64
+text:  If you love my video recipes, make sure you subscribe to my YouTube channel.
+
+start: 344.64
+end: 345.64
+text:  Thank you!
+
+start: 345.64
+end: 351.0
+text:  My brand new cookbook, Steamy Kitchen's Healthy Asian Favorites, just came out!
+
+start: 351.0
+end: 353.2
+text:  I hope you have a chance to pick up a copy.
+
+start: 353.2
+end: 358.72
+text:  There's over 100 Asian recipes that are easy, they're healthy, they're good for you!
+
+start: 358.72
+end: 360.28
+text:  Plus tons of photos!
+

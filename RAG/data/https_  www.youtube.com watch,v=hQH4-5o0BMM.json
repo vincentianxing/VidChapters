@@ -1,0 +1,86 @@
+[
+    {
+        "sentence": "Chop up the onion garlic carrot and celery.",
+        "timestamp": [
+            19.45220202020202,
+            92.3979595959596
+        ]
+    },
+    {
+        "sentence": "Add olive oil to a pot and add the vegetables and salt.",
+        "timestamp": [
+            97.2610101010101,
+            136.16541414141415
+        ]
+    },
+    {
+        "sentence": "Add ground beef and sausage to the pot and mix.",
+        "timestamp": [
+            136.16541414141415,
+            194.5220202020202
+        ]
+    },
+    {
+        "sentence": "Add dried italian seasoning to the pot and mix.",
+        "timestamp": [
+            199.3850707070707,
+            218.83727272727273
+        ]
+    },
+    {
+        "sentence": "Add tomato paste to the pot and mix.",
+        "timestamp": [
+            228.56337373737375,
+            262.6047272727273
+        ]
+    },
+    {
+        "sentence": "Add pasta to the pot and mix.",
+        "timestamp": [
+            262.6047272727273,
+            286.9199797979798
+        ]
+    },
+    {
+        "sentence": "Add pasta to the pot and mix.",
+        "timestamp": [
+            291.78303030303033,
+            311.2352323232323
+        ]
+    },
+    {
+        "sentence": "Add pasta to the pot and mix.",
+        "timestamp": [
+            325.8243838383839,
+            345.27658585858586
+        ]
+    },
+    {
+        "sentence": "Add pasta to the pot and mix.",
+        "timestamp": [
+            345.27658585858586,
+            364.7287878787879
+        ]
+    },
+    {
+        "sentence": "Add pasta to the pot.",
+        "timestamp": [
+            369.5918383838384,
+            384.1809898989899
+        ]
+    },
+    {
+        "sentence": "Add pasta to the pot.",
+        "timestamp": [
+            389.0440404040404,
+            393.9070909090909
+        ]
+    },
+    {
+        "sentence": "Add the pasta to the pot.",
+        "timestamp": [
+            393.9070909090909,
+            408.4962424242424
+        ]
+    }
+]

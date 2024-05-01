@@ -1,0 +1,524 @@
+start: 0.0
+end: 7.0
+text:  Pressure cooker pasta fagioli is what we're making today.
+
+start: 7.0
+end: 9.5
+text:  Lots of people are scared of using a pressure cooker in the kitchen.
+
+start: 9.5
+end: 12.5
+text:  It's a really handy tool to be able to cook things very quickly.
+
+start: 12.5
+end: 20.0
+text:  What it does is it seals and by using pressure and steam it cooks things that would normally have to cook for a long period of time much faster.
+
+start: 20.0
+end: 23.0
+text:  So there's a couple of important parts to the pressure cooker.
+
+start: 23.0
+end: 25.0
+text:  The lid and the actual pot part.
+
+start: 25.0
+end: 29.0
+text:  You can see on the pot there's flanges all the way around which lock everything together.
+
+start: 29.0
+end: 32.0
+text:  As well as that there's also a locking pin.
+
+start: 32.0
+end: 36.0
+text:  So once you put the lid on and lock it into place there's a pin that'll come up as it comes into pressure.
+
+start: 36.0
+end: 43.0
+text:  Which is going to make sure that this stays nice and sealed and safe so you can't open it.
+
+start: 43.0
+end: 47.0
+text:  So to start cooking my pasta fagioli I have some pancetta here.
+
+start: 47.0
+end: 50.0
+text:  Pancetta is similar to bacon. It's not smoked though it's just cured.
+
+start: 50.0
+end: 52.0
+text:  It's a salty bacon with no smoke flavour.
+
+start: 52.0
+end: 55.0
+text:  So I'm going to put this in to start.
+
+start: 55.0
+end: 60.0
+text:  What I want to do, you don't need oil in this. We want to render out some of the fat from our pancetta.
+
+start: 60.0
+end: 64.0
+text:  So I just want to put this into a dry pan over kind of medium high heat.
+
+start: 64.0
+end: 68.0
+text:  You just want to sweat this a little bit and saute it to get those fats to come out.
+
+start: 68.0
+end: 75.0
+text:  Kind of crisp it up a little bit and get some of that delicious pancetta bacon flavour into the base of our pasta today.
+
+start: 75.0
+end: 77.0
+text:  Some of the other things that we're going to put in.
+
+start: 77.0
+end: 80.0
+text:  I have some carrots, celery and onions.
+
+start: 80.0
+end: 82.0
+text:  Those are going to go in just after the pancetta.
+
+start: 82.0
+end: 84.0
+text:  After the pancetta crisps a little bit.
+
+start: 84.0
+end: 87.0
+text:  And we'll stir those in and start sauteing those as well.
+
+start: 87.0
+end: 90.0
+text:  So onions. Just finely diced onion.
+
+start: 93.0
+end: 95.0
+text:  A little bit of carrot and celery.
+
+start: 97.0
+end: 99.0
+text:  These are the base for most things that you cook.
+
+start: 99.0
+end: 101.0
+text:  They tie everything together really nicely.
+
+start: 102.0
+end: 103.0
+text:  Again just stir this.
+
+start: 109.0
+end: 111.0
+text:  So while this is cooking I'll add my dry spices.
+
+start: 111.0
+end: 118.0
+text:  I have some basil, oregano, dried basil, dried oregano and marjoram.
+
+start: 120.0
+end: 123.0
+text:  Which are going to give you that nice base sort of Italian flavours.
+
+start: 123.0
+end: 125.0
+text:  I'm going to add a little bit of chopped garlic.
+
+start: 127.0
+end: 130.0
+text:  And once you add your chopped garlic you want to be careful that you stir it lots.
+
+start: 130.0
+end: 132.0
+text:  Garlic has a very high sugar content.
+
+start: 132.0
+end: 134.0
+text:  So it has a tendency to burn.
+
+start: 135.0
+end: 137.0
+text:  So make sure that you keep moving it around the bottom of your pot.
+
+start: 138.0
+end: 140.0
+text:  And then the last thing is a bay leaf.
+
+start: 140.0
+end: 142.0
+text:  Just one bay leaf, dried or fresh.
+
+start: 143.0
+end: 147.0
+text:  If it's fresh I like to kind of crack it a little bit to help the flavours and oils come out of it.
+
+start: 147.0
+end: 149.0
+text:  We'll just throw that in whole.
+
+start: 149.0
+end: 152.0
+text:  And at the end of the cooking process we'll have to remember to take that out.
+
+start: 153.0
+end: 156.0
+text:  So this is just going to saute together until your vegetables are soft.
+
+start: 157.0
+end: 161.0
+text:  Once your vegetables get kind of soft, your onions start to get translucent.
+
+start: 161.0
+end: 163.0
+text:  We're just going to throw a little bit of white wine in.
+
+start: 163.0
+end: 166.0
+text:  And the white wine is going to help us deglaze the bottom of the pan.
+
+start: 166.0
+end: 168.0
+text:  Get all those great pancetta flavours.
+
+start: 168.0
+end: 170.0
+text:  Tie everything together.
+
+start: 171.0
+end: 175.0
+text:  If you didn't have wine or you didn't want to use wine, you could certainly use a little bit of stock or even water.
+
+start: 175.0
+end: 179.0
+text:  You just want to make sure that you get all those little bits off the bottom of your pan.
+
+start: 179.0
+end: 182.0
+text:  And then you want to bring this up to over a medium high heat.
+
+start: 182.0
+end: 185.0
+text:  And reduce the liquid until it's almost gone.
+
+start: 185.0
+end: 187.0
+text:  You want to cook out as much of that wine as you can.
+
+start: 190.0
+end: 192.0
+text:  Okay so my wine is almost reduced.
+
+start: 192.0
+end: 194.0
+text:  I've reduced this so it's almost dry again.
+
+start: 194.0
+end: 199.0
+text:  As you can see there's the dried spices and the carrots, the vegetables in there.
+
+start: 199.0
+end: 202.0
+text:  Onions, celery, pancetta are all really really great.
+
+start: 202.0
+end: 205.0
+text:  So what I want to do now is add my soaked beans.
+
+start: 205.0
+end: 207.0
+text:  These are dry cannellini beans.
+
+start: 207.0
+end: 212.0
+text:  You can buy dried beans at most grocery stores or a bulk store.
+
+start: 212.0
+end: 214.0
+text:  They're super inexpensive. They last forever.
+
+start: 214.0
+end: 217.0
+text:  And then what we did here was soaked them overnight.
+
+start: 217.0
+end: 220.0
+text:  So we filled them up in a large non-reactive bowl.
+
+start: 220.0
+end: 222.0
+text:  Covered them with cold water.
+
+start: 222.0
+end: 224.0
+text:  And let them sit in the fridge for about 24 hours.
+
+start: 224.0
+end: 227.0
+text:  And what that does is helps them grow.
+
+start: 227.0
+end: 229.0
+text:  They almost double in size.
+
+start: 229.0
+end: 232.0
+text:  They start absorbing some water and then they'll cook a lot more evenly.
+
+start: 232.0
+end: 236.0
+text:  So to cook these soaked beans, I just want to put them into my pressure cooker now.
+
+start: 238.0
+end: 242.0
+text:  On top of that I'm going to pour in some chicken stock or chicken broth.
+
+start: 244.0
+end: 246.0
+text:  So we'll pour that in.
+
+start: 246.0
+end: 248.0
+text:  And now I want to bring this up to a boil.
+
+start: 248.0
+end: 253.0
+text:  And at this point, this is where we're going to start utilizing the pressure in the pressure cooker.
+
+start: 253.0
+end: 256.0
+text:  So you want to bring this up to a boil before we put the lid on.
+
+start: 257.0
+end: 260.0
+text:  So over high heat, this is going to start heating up.
+
+start: 260.0
+end: 262.0
+text:  So the lid now has a couple of parts.
+
+start: 262.0
+end: 265.0
+text:  And what this is going to do is we're going to put it on.
+
+start: 265.0
+end: 267.0
+text:  And I'll talk a little bit about the lid.
+
+start: 267.0
+end: 269.0
+text:  So before you put your pressure cooker on,
+
+start: 269.0
+end: 271.0
+text:  you always want to make sure that you check this rubber seal.
+
+start: 271.0
+end: 272.0
+text:  And make sure that it's in good repair.
+
+start: 272.0
+end: 274.0
+text:  There's no cracks or signs of wear on it.
+
+start: 274.0
+end: 277.0
+text:  There's a safety valve which is there for safety.
+
+start: 277.0
+end: 281.0
+text:  There's a little bit of a steam release valve which controls how much steam goes off.
+
+start: 281.0
+end: 283.0
+text:  And on the other side of that sits a bobber.
+
+start: 283.0
+end: 289.0
+text:  And this will rock back and forth and just control the amount of steam that's coming out of the pressure cooker.
+
+start: 289.0
+end: 291.0
+text:  And the last thing is this safety valve.
+
+start: 291.0
+end: 293.0
+text:  So this is actually a safety pin.
+
+start: 293.0
+end: 296.0
+text:  That once your pressure cooker comes up to pressure,
+
+start: 296.0
+end: 300.0
+text:  this pin will push up and it locks everything in place so that you can't open the lid.
+
+start: 300.0
+end: 302.0
+text:  There's actually a safety mechanism built into this.
+
+start: 302.0
+end: 305.0
+text:  So to put the lid on, you can see this is flanged.
+
+start: 305.0
+end: 308.0
+text:  And then there is the flanges on the top of your pressure cooker.
+
+start: 308.0
+end: 310.0
+text:  So what I want to do is there's a little arrow.
+
+start: 310.0
+end: 314.0
+text:  And you want to line up the arrow on the handle and on the lid.
+
+start: 314.0
+end: 316.0
+text:  They line up very nicely.
+
+start: 316.0
+end: 320.0
+text:  And then the handle comes together in two pieces and locks into place.
+
+start: 320.0
+end: 325.0
+text:  Once it's locked into place, we can place our bobber on top.
+
+start: 325.0
+end: 327.0
+text:  And we'll just wait for the safety pin to come up.
+
+start: 327.0
+end: 330.0
+text:  Once the pin comes up, that means you've achieved high pressure.
+
+start: 330.0
+end: 335.0
+text:  At that point, you want to adjust your heat to control the pin to still be risen
+
+start: 335.0
+end: 338.0
+text:  so that you know you're at high pressure and not letting it fall.
+
+start: 338.0
+end: 341.0
+text:  And once the pin comes up, this is going to cook for 17 minutes.
+
+start: 341.0
+end: 344.0
+text:  So in 17 minutes, we're going to go from soaked beans
+
+start: 344.0
+end: 347.0
+text:  to completely cooked beans that are tender all the way through.
+
+start: 347.0
+end: 352.0
+text:  So our pasta fagioli has been cooking in the pressure cooker for 17 minutes at high pressure.
+
+start: 352.0
+end: 355.0
+text:  I've turned it off the heat and cooled it down completely
+
+start: 355.0
+end: 358.0
+text:  so that the safety mechanism has unlocked.
+
+start: 358.0
+end: 360.0
+text:  So now I can safely open the lid.
+
+start: 360.0
+end: 362.0
+text:  It'll open no problem.
+
+start: 362.0
+end: 365.0
+text:  And it's still hot in there. You can see the steam still coming out.
+
+start: 365.0
+end: 368.0
+text:  My beans should be cooked so that they're nice and tender.
+
+start: 368.0
+end: 371.0
+text:  All of those flavours have imparted into the beans.
+
+start: 371.0
+end: 374.0
+text:  So now what I want to do is stir in some canned tomatoes.
+
+start: 374.0
+end: 377.0
+text:  We like to use San Marzano-style canned tomatoes.
+
+start: 377.0
+end: 383.0
+text:  It's an Italian-style tomato that comes packed in tomato juice as opposed to water.
+
+start: 383.0
+end: 386.0
+text:  Some brands of canned tomatoes come packed with water.
+
+start: 386.0
+end: 390.0
+text:  The ones that say San Marzano or the San Marzano tomatoes from Italy
+
+start: 390.0
+end: 393.0
+text:  are generally a higher quality and it will give you a better product in the end.
+
+start: 393.0
+end: 396.0
+text:  So I'm just going to pour these through.
+
+start: 396.0
+end: 399.0
+text:  Some tomato.
+
+start: 399.0
+end: 403.0
+text:  And then I'm going to turn it back on the heat and leave this uncovered.
+
+start: 403.0
+end: 407.0
+text:  So I have my can of tomato and then I have a cup of pasta as well.
+
+start: 407.0
+end: 411.0
+text:  We're using elbow macaroni but you could use any small pasta just to cook through.
+
+start: 411.0
+end: 415.0
+text:  This is going to help absorb some of the liquid and make a delicious dish.
+
+start: 416.0
+end: 420.0
+text:  So now what I want to do is, this is going to take as long as the pasta takes.
+
+start: 420.0
+end: 423.0
+text:  So about 9 minutes to cook the pasta all the way through.
+
+start: 423.0
+end: 426.0
+text:  I just want to stir it around, bring it up to a high heat.
+
+start: 426.0
+end: 429.0
+text:  The liquid is going to boil away, those tomatoes are going to break down
+
+start: 429.0
+end: 433.0
+text:  and we'll give you a beautiful pasta product that is best served right away.
+
+start: 433.0
+end: 436.0
+text:  So a very simple dish that you can serve to your family.
+
+start: 438.0
+end: 441.0
+text:  Visit atcoblueflamekitchen.com for more tips.
+
