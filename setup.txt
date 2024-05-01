@@ -6,6 +6,14 @@ conda create --name vid2seq python=3.7
 conda activate vid2seq
 pip install -r requirements.txt
 
+## Download pretrained model checkpoints into ./checkpoints
+mkdir checkpoints
+
+Download checkpoints from:
+https://drive.google.com/file/d/1Kvx5OHJANtKVlyKe5oLvq6YOkewFqz8E/view
+
+Put the downloaded file under ./checkpoints
+
 ## Setup whisperX
 https://github.com/m-bain/whisperX
 conda create --name whisperx python=3.10
@@ -22,11 +30,10 @@ sudo apt update && sudo apt install ffmpeg
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 ## Download youtube videos into ./videos
-yt-dlp https://www.youtube.com/watch?v=CCl4vgq1zYU
-yt-dlp https://www.youtube.com/watch?v=<VIDEO_ID> --write-description --skip-download
+mkdir videos
+yt-dlp -f mp4 https://www.youtube.com/watch?v=CCl4vgq1zYU
 python collection/desc2chapters.py
 
-mkdir videos
 mkdir output_asr
 mkdir cache
 mkdir dir
